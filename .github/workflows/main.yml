@@ -41,8 +41,14 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         
-        # Adiciona os três arquivos para garantir que todos sejam salvos
+        # Adicionamos especificamente os arquivos de dados
         git add numeros_lot.json historico_total.json estatisticas_lot.json
         
-        git commit -m "Atualização automática: $(date)" || echo "Sem alterações para salvar"
-        git push origin main --force
+        # Verifica se houve mudanças antes de tentar salvar
+        if git diff --staged --quiet; then
+          echo "Sem alterações para salvar"
+        else
+          git commit -m "Atualização automática de dados: $(date)"
+          git push origin main
+        fi
+    
