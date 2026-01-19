@@ -2,7 +2,8 @@ name: Atualização Diária de Loterias
 
 on:
   schedule:
-    - cron: '0 23 * * *' # Roda todos os dias às 20h (Horário de Brasília)
+   # Roda todos os dias às 23:30 (Horário de Brasília aprox. 02:30 UTC)
+    - cron: '30 02 * * *'
   workflow_dispatch: # Permite rodar manualmente para testar
 
 jobs:
