@@ -2,9 +2,11 @@ name: Atualização Diária de Loterias
 
 on:
   schedule:
-   # Roda todos os dias às 23:30 (Horário de Brasília aprox. 02:30 UTC)
     - cron: '30 02 * * *'
-  workflow_dispatch: # Permite rodar manualmente para testar
+  workflow_dispatch: # Isso cria o botão de rodar manual
+
+permissions:
+  contents: write # Permissão explícita para o robô salvar arquivos
 
 jobs:
   build:
@@ -23,7 +25,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        pip install requests urllib3 # Adicionamos estas apenas por segurança para os novos scripts
+        pip install requests urllib3
 
     - name: 1. Executar script de coleta (90 dias)
       run: python coletor_caixa.py
@@ -41,14 +43,13 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         
-        # Adicionamos especificamente os arquivos de dados
+        # IMPORTANTE: Adicionamos APENAS os arquivos de dados. 
+        # Nunca adicionamos a pasta .github aqui para evitar o erro que você recebeu.
         git add numeros_lot.json historico_total.json estatisticas_lot.json
         
-        # Verifica se houve mudanças antes de tentar salvar
         if git diff --staged --quiet; then
           echo "Sem alterações para salvar"
         else
           git commit -m "Atualização automática de dados: $(date)"
           git push origin main
         fi
-    
