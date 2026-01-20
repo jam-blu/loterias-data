@@ -1,6 +1,6 @@
 {
     "metadados": {
-        "ultima_atualizacao": "19/01/2026 22:42",
+        "ultima_atualizacao": "20/01/2026 05:01",
         "total_loterias": 9
     },
     "loterias": {
@@ -3560,1980 +3560,1980 @@
             ]
         },
         "supersete": {
-            "ultimo_concurso_processado": 799,
+            "ultimo_concurso_processado": 800,
             "dezenas": [
                 {
                     "valor": "10",
                     "repeticoes": 94,
-                    "atraso": 27,
+                    "atraso": 28,
                     "ultimo_concurso": 772
                 },
                 {
                     "valor": "11",
                     "repeticoes": 77,
-                    "atraso": 11,
+                    "atraso": 12,
                     "ultimo_concurso": 788
                 },
                 {
                     "valor": "12",
                     "repeticoes": 71,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 791
                 },
                 {
                     "valor": "13",
                     "repeticoes": 87,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 797
                 },
                 {
                     "valor": "14",
-                    "repeticoes": 82,
-                    "atraso": 1,
-                    "ultimo_concurso": 798
+                    "repeticoes": 83,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "15",
                     "repeticoes": 85,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 796
                 },
                 {
                     "valor": "16",
                     "repeticoes": 77,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 790
                 },
                 {
                     "valor": "17",
                     "repeticoes": 76,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 795
                 },
                 {
                     "valor": "18",
                     "repeticoes": 72,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 794
                 },
                 {
                     "valor": "19",
                     "repeticoes": 77,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "20",
                     "repeticoes": 71,
-                    "atraso": 13,
+                    "atraso": 14,
                     "ultimo_concurso": 786
                 },
                 {
                     "valor": "21",
-                    "repeticoes": 79,
-                    "atraso": 2,
-                    "ultimo_concurso": 797
+                    "repeticoes": 80,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "22",
                     "repeticoes": 80,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 785
                 },
                 {
                     "valor": "23",
                     "repeticoes": 80,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 790
                 },
                 {
                     "valor": "24",
                     "repeticoes": 78,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 794
                 },
                 {
                     "valor": "25",
                     "repeticoes": 86,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 791
                 },
                 {
                     "valor": "26",
                     "repeticoes": 83,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "27",
                     "repeticoes": 86,
-                    "atraso": 11,
+                    "atraso": 12,
                     "ultimo_concurso": 788
                 },
                 {
                     "valor": "28",
                     "repeticoes": 76,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "29",
                     "repeticoes": 79,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 795
                 },
                 {
                     "valor": "30",
                     "repeticoes": 77,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "31",
                     "repeticoes": 85,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 795
                 },
                 {
                     "valor": "32",
-                    "repeticoes": 77,
-                    "atraso": 3,
-                    "ultimo_concurso": 796
+                    "repeticoes": 78,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "33",
                     "repeticoes": 77,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 794
                 },
                 {
                     "valor": "34",
                     "repeticoes": 84,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 797
                 },
                 {
                     "valor": "35",
                     "repeticoes": 93,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "36",
                     "repeticoes": 72,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 790
                 },
                 {
                     "valor": "37",
                     "repeticoes": 82,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 789
                 },
                 {
                     "valor": "38",
                     "repeticoes": 78,
-                    "atraso": 31,
+                    "atraso": 32,
                     "ultimo_concurso": 768
                 },
                 {
                     "valor": "39",
                     "repeticoes": 73,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 791
                 },
                 {
                     "valor": "40",
                     "repeticoes": 76,
-                    "atraso": 16,
+                    "atraso": 17,
                     "ultimo_concurso": 783
                 },
                 {
                     "valor": "41",
                     "repeticoes": 81,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 793
                 },
                 {
                     "valor": "42",
                     "repeticoes": 82,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 791
                 },
                 {
                     "valor": "43",
                     "repeticoes": 69,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 792
                 },
                 {
                     "valor": "44",
                     "repeticoes": 75,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "45",
-                    "repeticoes": 79,
-                    "atraso": 15,
-                    "ultimo_concurso": 784
+                    "repeticoes": 80,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "46",
                     "repeticoes": 92,
-                    "atraso": 23,
+                    "atraso": 24,
                     "ultimo_concurso": 776
                 },
                 {
                     "valor": "47",
                     "repeticoes": 87,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "48",
                     "repeticoes": 66,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 797
                 },
                 {
                     "valor": "49",
                     "repeticoes": 91,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 785
                 },
                 {
                     "valor": "50",
                     "repeticoes": 83,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 796
                 },
                 {
                     "valor": "51",
                     "repeticoes": 54,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "52",
-                    "repeticoes": 73,
-                    "atraso": 11,
-                    "ultimo_concurso": 788
+                    "repeticoes": 74,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "53",
                     "repeticoes": 94,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 797
                 },
                 {
                     "valor": "54",
                     "repeticoes": 78,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 793
                 },
                 {
                     "valor": "55",
                     "repeticoes": 86,
-                    "atraso": 28,
+                    "atraso": 29,
                     "ultimo_concurso": 771
                 },
                 {
                     "valor": "56",
                     "repeticoes": 85,
-                    "atraso": 24,
+                    "atraso": 25,
                     "ultimo_concurso": 775
                 },
                 {
                     "valor": "57",
                     "repeticoes": 85,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "58",
                     "repeticoes": 82,
-                    "atraso": 13,
+                    "atraso": 14,
                     "ultimo_concurso": 786
                 },
                 {
                     "valor": "59",
                     "repeticoes": 78,
-                    "atraso": 17,
+                    "atraso": 18,
                     "ultimo_concurso": 782
                 },
                 {
                     "valor": "60",
                     "repeticoes": 91,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 797
                 },
                 {
                     "valor": "61",
                     "repeticoes": 71,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "62",
-                    "repeticoes": 68,
-                    "atraso": 25,
-                    "ultimo_concurso": 774
+                    "repeticoes": 69,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "63",
                     "repeticoes": 74,
-                    "atraso": 15,
+                    "atraso": 16,
                     "ultimo_concurso": 784
                 },
                 {
                     "valor": "64",
                     "repeticoes": 88,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "65",
                     "repeticoes": 62,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 793
                 },
                 {
                     "valor": "66",
                     "repeticoes": 86,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 794
                 },
                 {
                     "valor": "67",
                     "repeticoes": 91,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 796
                 },
                 {
                     "valor": "68",
                     "repeticoes": 79,
-                    "atraso": 21,
+                    "atraso": 22,
                     "ultimo_concurso": 778
                 },
                 {
                     "valor": "69",
                     "repeticoes": 88,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 789
                 },
                 {
                     "valor": "70",
                     "repeticoes": 76,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 793
                 },
                 {
                     "valor": "71",
                     "repeticoes": 79,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 794
                 },
                 {
                     "valor": "72",
                     "repeticoes": 80,
-                    "atraso": 18,
+                    "atraso": 19,
                     "ultimo_concurso": 781
                 },
                 {
                     "valor": "73",
                     "repeticoes": 89,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 792
                 },
                 {
                     "valor": "74",
                     "repeticoes": 74,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 789
                 },
                 {
                     "valor": "75",
-                    "repeticoes": 80,
-                    "atraso": 16,
-                    "ultimo_concurso": 783
+                    "repeticoes": 81,
+                    "atraso": 0,
+                    "ultimo_concurso": 800
                 },
                 {
                     "valor": "76",
                     "repeticoes": 81,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 798
                 },
                 {
                     "valor": "77",
                     "repeticoes": 77,
-                    "atraso": 29,
+                    "atraso": 30,
                     "ultimo_concurso": 770
                 },
                 {
                     "valor": "78",
                     "repeticoes": 75,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 799
                 },
                 {
                     "valor": "79",
                     "repeticoes": 87,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 795
                 }
             ],
             "especiais": []
         },
         "quina": {
-            "ultimo_concurso_processado": 6930,
+            "ultimo_concurso_processado": 6931,
             "dezenas": [
                 {
                     "valor": "01",
                     "repeticoes": 404,
-                    "atraso": 22,
+                    "atraso": 23,
                     "ultimo_concurso": 6908
                 },
                 {
                     "valor": "02",
                     "repeticoes": 414,
-                    "atraso": 20,
+                    "atraso": 21,
                     "ultimo_concurso": 6910
                 },
                 {
                     "valor": "03",
                     "repeticoes": 389,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 6927
                 },
                 {
                     "valor": "04",
                     "repeticoes": 497,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 6924
                 },
                 {
                     "valor": "05",
                     "repeticoes": 463,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 6930
                 },
                 {
                     "valor": "06",
                     "repeticoes": 435,
-                    "atraso": 11,
+                    "atraso": 12,
                     "ultimo_concurso": 6919
                 },
                 {
                     "valor": "07",
                     "repeticoes": 414,
-                    "atraso": 59,
+                    "atraso": 60,
                     "ultimo_concurso": 6871
                 },
                 {
                     "valor": "08",
                     "repeticoes": 423,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 6929
                 },
                 {
                     "valor": "09",
                     "repeticoes": 454,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 6925
                 },
                 {
                     "valor": "10",
                     "repeticoes": 452,
-                    "atraso": 22,
+                    "atraso": 23,
                     "ultimo_concurso": 6908
                 },
                 {
                     "valor": "11",
                     "repeticoes": 427,
-                    "atraso": 13,
+                    "atraso": 14,
                     "ultimo_concurso": 6917
                 },
                 {
                     "valor": "12",
                     "repeticoes": 434,
-                    "atraso": 40,
+                    "atraso": 41,
                     "ultimo_concurso": 6890
                 },
                 {
                     "valor": "13",
                     "repeticoes": 448,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 6929
                 },
                 {
                     "valor": "14",
                     "repeticoes": 442,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 6929
                 },
                 {
                     "valor": "15",
                     "repeticoes": 456,
-                    "atraso": 13,
+                    "atraso": 14,
                     "ultimo_concurso": 6917
                 },
                 {
                     "valor": "16",
                     "repeticoes": 465,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 6930
                 },
                 {
                     "valor": "17",
                     "repeticoes": 410,
-                    "atraso": 31,
+                    "atraso": 32,
                     "ultimo_concurso": 6899
                 },
                 {
                     "valor": "18",
                     "repeticoes": 454,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 6923
                 },
                 {
                     "valor": "19",
                     "repeticoes": 432,
-                    "atraso": 15,
+                    "atraso": 16,
                     "ultimo_concurso": 6915
                 },
                 {
                     "valor": "20",
                     "repeticoes": 405,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 6927
                 },
                 {
                     "valor": "21",
                     "repeticoes": 419,
-                    "atraso": 12,
+                    "atraso": 13,
                     "ultimo_concurso": 6918
                 },
                 {
                     "valor": "22",
                     "repeticoes": 410,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 6930
                 },
                 {
                     "valor": "23",
                     "repeticoes": 423,
-                    "atraso": 23,
+                    "atraso": 24,
                     "ultimo_concurso": 6907
                 },
                 {
                     "valor": "24",
                     "repeticoes": 421,
-                    "atraso": 12,
+                    "atraso": 13,
                     "ultimo_concurso": 6918
                 },
                 {
                     "valor": "25",
                     "repeticoes": 400,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 6925
                 },
                 {
                     "valor": "26",
                     "repeticoes": 478,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 6922
                 },
                 {
                     "valor": "27",
                     "repeticoes": 420,
-                    "atraso": 53,
+                    "atraso": 54,
                     "ultimo_concurso": 6877
                 },
                 {
                     "valor": "28",
                     "repeticoes": 416,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 6920
                 },
                 {
                     "valor": "29",
                     "repeticoes": 462,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 6926
                 },
                 {
                     "valor": "30",
                     "repeticoes": 408,
-                    "atraso": 81,
+                    "atraso": 82,
                     "ultimo_concurso": 6849
                 },
                 {
                     "valor": "31",
                     "repeticoes": 467,
-                    "atraso": 17,
+                    "atraso": 18,
                     "ultimo_concurso": 6913
                 },
                 {
                     "valor": "32",
                     "repeticoes": 417,
-                    "atraso": 24,
+                    "atraso": 25,
                     "ultimo_concurso": 6906
                 },
                 {
                     "valor": "33",
                     "repeticoes": 453,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 6928
                 },
                 {
                     "valor": "34",
                     "repeticoes": 426,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 6923
                 },
                 {
                     "valor": "35",
                     "repeticoes": 408,
-                    "atraso": 33,
+                    "atraso": 34,
                     "ultimo_concurso": 6897
                 },
                 {
                     "valor": "36",
                     "repeticoes": 420,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 6922
                 },
                 {
                     "valor": "37",
                     "repeticoes": 453,
-                    "atraso": 42,
+                    "atraso": 43,
                     "ultimo_concurso": 6888
                 },
                 {
                     "valor": "38",
                     "repeticoes": 450,
-                    "atraso": 17,
+                    "atraso": 18,
                     "ultimo_concurso": 6913
                 },
                 {
                     "valor": "39",
                     "repeticoes": 461,
-                    "atraso": 45,
+                    "atraso": 46,
                     "ultimo_concurso": 6885
                 },
                 {
                     "valor": "40",
                     "repeticoes": 445,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 6926
                 },
                 {
                     "valor": "41",
                     "repeticoes": 419,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 6923
                 },
                 {
                     "valor": "42",
                     "repeticoes": 461,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 6920
                 },
                 {
                     "valor": "43",
                     "repeticoes": 429,
-                    "atraso": 18,
+                    "atraso": 19,
                     "ultimo_concurso": 6912
                 },
                 {
                     "valor": "44",
                     "repeticoes": 468,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 6928
                 },
                 {
                     "valor": "45",
                     "repeticoes": 439,
-                    "atraso": 27,
+                    "atraso": 28,
                     "ultimo_concurso": 6903
                 },
                 {
                     "valor": "46",
                     "repeticoes": 429,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 6925
                 },
                 {
                     "valor": "47",
                     "repeticoes": 380,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 6920
                 },
                 {
                     "valor": "48",
-                    "repeticoes": 391,
-                    "atraso": 13,
-                    "ultimo_concurso": 6917
+                    "repeticoes": 392,
+                    "atraso": 0,
+                    "ultimo_concurso": 6931
                 },
                 {
                     "valor": "49",
                     "repeticoes": 474,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 6927
                 },
                 {
                     "valor": "50",
                     "repeticoes": 410,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 6921
                 },
                 {
                     "valor": "51",
                     "repeticoes": 425,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 6922
                 },
                 {
                     "valor": "52",
                     "repeticoes": 481,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 6924
                 },
                 {
                     "valor": "53",
                     "repeticoes": 459,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 6929
                 },
                 {
                     "valor": "54",
                     "repeticoes": 443,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 6929
                 },
                 {
                     "valor": "55",
                     "repeticoes": 429,
-                    "atraso": 24,
+                    "atraso": 25,
                     "ultimo_concurso": 6906
                 },
                 {
                     "valor": "56",
                     "repeticoes": 458,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 6928
                 },
                 {
                     "valor": "57",
                     "repeticoes": 427,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 6927
                 },
                 {
                     "valor": "58",
                     "repeticoes": 400,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 6916
                 },
                 {
                     "valor": "59",
                     "repeticoes": 428,
-                    "atraso": 19,
+                    "atraso": 20,
                     "ultimo_concurso": 6911
                 },
                 {
                     "valor": "60",
                     "repeticoes": 436,
-                    "atraso": 25,
+                    "atraso": 26,
                     "ultimo_concurso": 6905
                 },
                 {
                     "valor": "61",
                     "repeticoes": 447,
-                    "atraso": 50,
+                    "atraso": 51,
                     "ultimo_concurso": 6880
                 },
                 {
                     "valor": "62",
                     "repeticoes": 428,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 6925
                 },
                 {
                     "valor": "63",
                     "repeticoes": 421,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 6923
                 },
                 {
                     "valor": "64",
                     "repeticoes": 435,
-                    "atraso": 11,
+                    "atraso": 12,
                     "ultimo_concurso": 6919
                 },
                 {
                     "valor": "65",
                     "repeticoes": 403,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 6930
                 },
                 {
                     "valor": "66",
                     "repeticoes": 454,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 6928
                 },
                 {
                     "valor": "67",
                     "repeticoes": 401,
-                    "atraso": 35,
+                    "atraso": 36,
                     "ultimo_concurso": 6895
                 },
                 {
                     "valor": "68",
                     "repeticoes": 405,
-                    "atraso": 20,
+                    "atraso": 21,
                     "ultimo_concurso": 6910
                 },
                 {
                     "valor": "69",
-                    "repeticoes": 417,
-                    "atraso": 3,
-                    "ultimo_concurso": 6927
+                    "repeticoes": 418,
+                    "atraso": 0,
+                    "ultimo_concurso": 6931
                 },
                 {
                     "valor": "70",
                     "repeticoes": 441,
-                    "atraso": 40,
+                    "atraso": 41,
                     "ultimo_concurso": 6890
                 },
                 {
                     "valor": "71",
                     "repeticoes": 434,
-                    "atraso": 51,
+                    "atraso": 52,
                     "ultimo_concurso": 6879
                 },
                 {
                     "valor": "72",
                     "repeticoes": 446,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 6928
                 },
                 {
                     "valor": "73",
-                    "repeticoes": 445,
-                    "atraso": 35,
-                    "ultimo_concurso": 6895
+                    "repeticoes": 446,
+                    "atraso": 0,
+                    "ultimo_concurso": 6931
                 },
                 {
                     "valor": "74",
                     "repeticoes": 431,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 6921
                 },
                 {
                     "valor": "75",
                     "repeticoes": 436,
-                    "atraso": 21,
+                    "atraso": 22,
                     "ultimo_concurso": 6909
                 },
                 {
                     "valor": "76",
                     "repeticoes": 422,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 6916
                 },
                 {
                     "valor": "77",
-                    "repeticoes": 429,
-                    "atraso": 9,
-                    "ultimo_concurso": 6921
+                    "repeticoes": 430,
+                    "atraso": 0,
+                    "ultimo_concurso": 6931
                 },
                 {
                     "valor": "78",
                     "repeticoes": 427,
-                    "atraso": 25,
+                    "atraso": 26,
                     "ultimo_concurso": 6905
                 },
                 {
                     "valor": "79",
-                    "repeticoes": 433,
-                    "atraso": 4,
-                    "ultimo_concurso": 6926
+                    "repeticoes": 434,
+                    "atraso": 0,
+                    "ultimo_concurso": 6931
                 },
                 {
                     "valor": "80",
                     "repeticoes": 419,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 6930
                 }
             ],
             "especiais": []
         },
         "lotofacil": {
-            "ultimo_concurso_processado": 3590,
+            "ultimo_concurso_processado": 3591,
             "dezenas": [
                 {
                     "valor": "01",
-                    "repeticoes": 2173,
-                    "atraso": 1,
-                    "ultimo_concurso": 3589
+                    "repeticoes": 2174,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "02",
-                    "repeticoes": 2152,
-                    "atraso": 1,
-                    "ultimo_concurso": 3589
+                    "repeticoes": 2153,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "03",
-                    "repeticoes": 2164,
-                    "atraso": 1,
-                    "ultimo_concurso": 3589
+                    "repeticoes": 2165,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "04",
-                    "repeticoes": 2169,
+                    "repeticoes": 2170,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "05",
                     "repeticoes": 2152,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 3588
                 },
                 {
                     "valor": "06",
-                    "repeticoes": 2103,
+                    "repeticoes": 2104,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "07",
-                    "repeticoes": 2118,
-                    "atraso": 2,
-                    "ultimo_concurso": 3588
+                    "repeticoes": 2119,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "08",
                     "repeticoes": 2084,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "09",
                     "repeticoes": 2140,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 3588
                 },
                 {
                     "valor": "10",
-                    "repeticoes": 2231,
+                    "repeticoes": 2232,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "11",
-                    "repeticoes": 2206,
+                    "repeticoes": 2207,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "12",
                     "repeticoes": 2164,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "13",
-                    "repeticoes": 2188,
+                    "repeticoes": 2189,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "14",
-                    "repeticoes": 2178,
-                    "atraso": 2,
-                    "ultimo_concurso": 3588
+                    "repeticoes": 2179,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "15",
-                    "repeticoes": 2142,
+                    "repeticoes": 2143,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "16",
                     "repeticoes": 2056,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "17",
-                    "repeticoes": 2117,
+                    "repeticoes": 2118,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "18",
-                    "repeticoes": 2138,
-                    "atraso": 1,
-                    "ultimo_concurso": 3589
+                    "repeticoes": 2139,
+                    "atraso": 0,
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "19",
-                    "repeticoes": 2140,
+                    "repeticoes": 2141,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "20",
-                    "repeticoes": 2241,
+                    "repeticoes": 2242,
                     "atraso": 0,
-                    "ultimo_concurso": 3590
+                    "ultimo_concurso": 3591
                 },
                 {
                     "valor": "21",
                     "repeticoes": 2132,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "22",
                     "repeticoes": 2153,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "23",
                     "repeticoes": 2099,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 3590
                 },
                 {
                     "valor": "24",
                     "repeticoes": 2181,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 3589
                 },
                 {
                     "valor": "25",
                     "repeticoes": 2229,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 3589
                 }
             ],
             "especiais": []
         },
         "lotomania": {
-            "ultimo_concurso_processado": 2876,
+            "ultimo_concurso_processado": 2877,
             "dezenas": [
                 {
                     "valor": "00",
                     "repeticoes": 569,
-                    "atraso": 16,
+                    "atraso": 17,
                     "ultimo_concurso": 2860
                 },
                 {
                     "valor": "01",
                     "repeticoes": 575,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "02",
-                    "repeticoes": 573,
+                    "repeticoes": 574,
                     "atraso": 0,
-                    "ultimo_concurso": 2876
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "03",
                     "repeticoes": 567,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "04",
-                    "repeticoes": 594,
-                    "atraso": 2,
-                    "ultimo_concurso": 2874
+                    "repeticoes": 595,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "05",
-                    "repeticoes": 572,
-                    "atraso": 3,
-                    "ultimo_concurso": 2873
+                    "repeticoes": 573,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "06",
                     "repeticoes": 591,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "07",
                     "repeticoes": 572,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 2866
                 },
                 {
                     "valor": "08",
                     "repeticoes": 576,
-                    "atraso": 18,
+                    "atraso": 19,
                     "ultimo_concurso": 2858
                 },
                 {
                     "valor": "09",
-                    "repeticoes": 563,
-                    "atraso": 1,
-                    "ultimo_concurso": 2875
+                    "repeticoes": 564,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "10",
                     "repeticoes": 560,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "11",
                     "repeticoes": 606,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "12",
                     "repeticoes": 568,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "13",
                     "repeticoes": 594,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "14",
                     "repeticoes": 568,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "15",
                     "repeticoes": 565,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "16",
                     "repeticoes": 571,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "17",
-                    "repeticoes": 589,
-                    "atraso": 10,
-                    "ultimo_concurso": 2866
+                    "repeticoes": 590,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "18",
-                    "repeticoes": 574,
-                    "atraso": 2,
-                    "ultimo_concurso": 2874
+                    "repeticoes": 575,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "19",
                     "repeticoes": 586,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "20",
                     "repeticoes": 578,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2871
                 },
                 {
                     "valor": "21",
-                    "repeticoes": 537,
-                    "atraso": 4,
-                    "ultimo_concurso": 2872
+                    "repeticoes": 538,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "22",
                     "repeticoes": 555,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "23",
                     "repeticoes": 566,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "24",
-                    "repeticoes": 610,
-                    "atraso": 1,
-                    "ultimo_concurso": 2875
+                    "repeticoes": 611,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "25",
                     "repeticoes": 579,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "26",
                     "repeticoes": 601,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 2868
                 },
                 {
                     "valor": "27",
                     "repeticoes": 560,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "28",
                     "repeticoes": 571,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2871
                 },
                 {
                     "valor": "29",
                     "repeticoes": 583,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "30",
                     "repeticoes": 571,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "31",
                     "repeticoes": 604,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2871
                 },
                 {
                     "valor": "32",
                     "repeticoes": 549,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "33",
                     "repeticoes": 551,
-                    "atraso": 24,
+                    "atraso": 25,
                     "ultimo_concurso": 2852
                 },
                 {
                     "valor": "34",
                     "repeticoes": 578,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "35",
                     "repeticoes": 574,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 2862
                 },
                 {
                     "valor": "36",
-                    "repeticoes": 557,
+                    "repeticoes": 558,
                     "atraso": 0,
-                    "ultimo_concurso": 2876
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "37",
                     "repeticoes": 573,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "38",
                     "repeticoes": 609,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "39",
                     "repeticoes": 560,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "40",
                     "repeticoes": 557,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "41",
                     "repeticoes": 612,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "42",
-                    "repeticoes": 598,
-                    "atraso": 12,
-                    "ultimo_concurso": 2864
+                    "repeticoes": 599,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "43",
-                    "repeticoes": 625,
-                    "atraso": 2,
-                    "ultimo_concurso": 2874
+                    "repeticoes": 626,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "44",
                     "repeticoes": 602,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "45",
                     "repeticoes": 580,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "46",
                     "repeticoes": 564,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "47",
                     "repeticoes": 624,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "48",
                     "repeticoes": 608,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "49",
                     "repeticoes": 614,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "50",
                     "repeticoes": 572,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "51",
                     "repeticoes": 585,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "52",
-                    "repeticoes": 519,
-                    "atraso": 10,
-                    "ultimo_concurso": 2866
+                    "repeticoes": 520,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "53",
                     "repeticoes": 589,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "54",
                     "repeticoes": 619,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "55",
                     "repeticoes": 566,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "56",
                     "repeticoes": 551,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 2866
                 },
                 {
                     "valor": "57",
                     "repeticoes": 538,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "58",
                     "repeticoes": 570,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "59",
                     "repeticoes": 544,
-                    "atraso": 14,
+                    "atraso": 15,
                     "ultimo_concurso": 2862
                 },
                 {
                     "valor": "60",
-                    "repeticoes": 552,
-                    "atraso": 3,
-                    "ultimo_concurso": 2873
+                    "repeticoes": 553,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "61",
                     "repeticoes": 587,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "62",
-                    "repeticoes": 571,
-                    "atraso": 3,
-                    "ultimo_concurso": 2873
+                    "repeticoes": 572,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "63",
                     "repeticoes": 555,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 2868
                 },
                 {
                     "valor": "64",
                     "repeticoes": 592,
-                    "atraso": 26,
+                    "atraso": 27,
                     "ultimo_concurso": 2850
                 },
                 {
                     "valor": "65",
                     "repeticoes": 560,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "66",
                     "repeticoes": 572,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "67",
                     "repeticoes": 592,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "68",
                     "repeticoes": 580,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "69",
-                    "repeticoes": 556,
+                    "repeticoes": 557,
                     "atraso": 0,
-                    "ultimo_concurso": 2876
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "70",
                     "repeticoes": 552,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2872
                 },
                 {
                     "valor": "71",
                     "repeticoes": 568,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "72",
-                    "repeticoes": 560,
-                    "atraso": 6,
-                    "ultimo_concurso": 2870
+                    "repeticoes": 561,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "73",
                     "repeticoes": 582,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 2868
                 },
                 {
                     "valor": "74",
                     "repeticoes": 581,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "75",
                     "repeticoes": 560,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "76",
                     "repeticoes": 599,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "77",
                     "repeticoes": 559,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 2869
                 },
                 {
                     "valor": "78",
                     "repeticoes": 575,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2874
                 },
                 {
                     "valor": "79",
                     "repeticoes": 574,
-                    "atraso": 12,
+                    "atraso": 13,
                     "ultimo_concurso": 2864
                 },
                 {
                     "valor": "80",
                     "repeticoes": 564,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "81",
                     "repeticoes": 577,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "82",
                     "repeticoes": 598,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "83",
                     "repeticoes": 586,
-                    "atraso": 24,
+                    "atraso": 25,
                     "ultimo_concurso": 2852
                 },
                 {
                     "valor": "84",
                     "repeticoes": 547,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2870
                 },
                 {
                     "valor": "85",
-                    "repeticoes": 594,
+                    "repeticoes": 595,
                     "atraso": 0,
-                    "ultimo_concurso": 2876
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "86",
-                    "repeticoes": 584,
-                    "atraso": 2,
-                    "ultimo_concurso": 2874
+                    "repeticoes": 585,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "87",
                     "repeticoes": 584,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2871
                 },
                 {
                     "valor": "88",
                     "repeticoes": 564,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "89",
                     "repeticoes": 550,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "90",
                     "repeticoes": 584,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "91",
-                    "repeticoes": 580,
+                    "repeticoes": 581,
                     "atraso": 0,
-                    "ultimo_concurso": 2876
+                    "ultimo_concurso": 2877
                 },
                 {
                     "valor": "92",
                     "repeticoes": 613,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2873
                 },
                 {
                     "valor": "93",
                     "repeticoes": 594,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2871
                 },
                 {
                     "valor": "94",
                     "repeticoes": 560,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 2868
                 },
                 {
                     "valor": "95",
                     "repeticoes": 583,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2876
                 },
                 {
                     "valor": "96",
                     "repeticoes": 510,
-                    "atraso": 8,
+                    "atraso": 9,
                     "ultimo_concurso": 2868
                 },
                 {
                     "valor": "97",
                     "repeticoes": 555,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2875
                 },
                 {
                     "valor": "98",
                     "repeticoes": 545,
-                    "atraso": 12,
+                    "atraso": 13,
                     "ultimo_concurso": 2864
                 },
                 {
                     "valor": "99",
-                    "repeticoes": 585,
-                    "atraso": 11,
-                    "ultimo_concurso": 2865
+                    "repeticoes": 586,
+                    "atraso": 0,
+                    "ultimo_concurso": 2877
                 }
             ],
             "especiais": []
         },
         "duplasena": {
-            "ultimo_concurso_processado": 2913,
+            "ultimo_concurso_processado": 2914,
             "dezenas": [
                 {
                     "valor": "01",
                     "repeticoes": 654,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "02",
-                    "repeticoes": 714,
+                    "repeticoes": 715,
                     "atraso": 0,
-                    "ultimo_concurso": 2913
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "03",
                     "repeticoes": 706,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2908
                 },
                 {
                     "valor": "04",
-                    "repeticoes": 693,
+                    "repeticoes": 694,
                     "atraso": 0,
-                    "ultimo_concurso": 2913
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "05",
                     "repeticoes": 713,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 2904
                 },
                 {
                     "valor": "06",
                     "repeticoes": 708,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "07",
-                    "repeticoes": 685,
-                    "atraso": 1,
-                    "ultimo_concurso": 2912
+                    "repeticoes": 686,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "08",
                     "repeticoes": 706,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2910
                 },
                 {
                     "valor": "09",
                     "repeticoes": 721,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2910
                 },
                 {
                     "valor": "10",
                     "repeticoes": 712,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2912
                 },
                 {
                     "valor": "11",
                     "repeticoes": 715,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 2904
                 },
                 {
                     "valor": "12",
                     "repeticoes": 692,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "13",
                     "repeticoes": 676,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "14",
                     "repeticoes": 715,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2910
                 },
                 {
                     "valor": "15",
                     "repeticoes": 680,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2912
                 },
                 {
                     "valor": "16",
                     "repeticoes": 665,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2908
                 },
                 {
                     "valor": "17",
-                    "repeticoes": 666,
-                    "atraso": 1,
-                    "ultimo_concurso": 2912
+                    "repeticoes": 667,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "18",
                     "repeticoes": 735,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 2906
                 },
                 {
                     "valor": "19",
                     "repeticoes": 703,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2912
                 },
                 {
                     "valor": "20",
-                    "repeticoes": 702,
+                    "repeticoes": 703,
                     "atraso": 0,
-                    "ultimo_concurso": 2913
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "21",
                     "repeticoes": 705,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "22",
                     "repeticoes": 696,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "23",
                     "repeticoes": 691,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2912
                 },
                 {
                     "valor": "24",
                     "repeticoes": 657,
-                    "atraso": 9,
+                    "atraso": 10,
                     "ultimo_concurso": 2904
                 },
                 {
                     "valor": "25",
                     "repeticoes": 712,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "26",
-                    "repeticoes": 666,
-                    "atraso": 3,
-                    "ultimo_concurso": 2910
+                    "repeticoes": 667,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "27",
                     "repeticoes": 654,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "28",
                     "repeticoes": 675,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 2903
                 },
                 {
                     "valor": "29",
                     "repeticoes": 662,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2910
                 },
                 {
                     "valor": "30",
-                    "repeticoes": 748,
-                    "atraso": 3,
-                    "ultimo_concurso": 2910
+                    "repeticoes": 749,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "31",
                     "repeticoes": 726,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2907
                 },
                 {
                     "valor": "32",
                     "repeticoes": 692,
-                    "atraso": 26,
+                    "atraso": 27,
                     "ultimo_concurso": 2887
                 },
                 {
                     "valor": "33",
-                    "repeticoes": 718,
-                    "atraso": 1,
-                    "ultimo_concurso": 2912
+                    "repeticoes": 719,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "34",
                     "repeticoes": 684,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2908
                 },
                 {
                     "valor": "35",
                     "repeticoes": 733,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2908
                 },
                 {
                     "valor": "36",
                     "repeticoes": 759,
-                    "atraso": 5,
+                    "atraso": 6,
                     "ultimo_concurso": 2908
                 },
                 {
                     "valor": "37",
-                    "repeticoes": 674,
-                    "atraso": 2,
-                    "ultimo_concurso": 2911
+                    "repeticoes": 675,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "38",
                     "repeticoes": 688,
-                    "atraso": 1,
+                    "atraso": 2,
                     "ultimo_concurso": 2912
                 },
                 {
                     "valor": "39",
                     "repeticoes": 741,
-                    "atraso": 7,
+                    "atraso": 8,
                     "ultimo_concurso": 2906
                 },
                 {
                     "valor": "40",
                     "repeticoes": 669,
-                    "atraso": 6,
+                    "atraso": 7,
                     "ultimo_concurso": 2907
                 },
                 {
                     "valor": "41",
-                    "repeticoes": 702,
-                    "atraso": 6,
-                    "ultimo_concurso": 2907
+                    "repeticoes": 703,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "42",
                     "repeticoes": 711,
-                    "atraso": 3,
+                    "atraso": 4,
                     "ultimo_concurso": 2910
                 },
                 {
                     "valor": "43",
                     "repeticoes": 697,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "44",
                     "repeticoes": 707,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "45",
                     "repeticoes": 716,
-                    "atraso": 2,
+                    "atraso": 3,
                     "ultimo_concurso": 2911
                 },
                 {
                     "valor": "46",
                     "repeticoes": 731,
-                    "atraso": 4,
+                    "atraso": 5,
                     "ultimo_concurso": 2909
                 },
                 {
                     "valor": "47",
-                    "repeticoes": 693,
+                    "repeticoes": 694,
                     "atraso": 0,
-                    "ultimo_concurso": 2913
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "48",
-                    "repeticoes": 667,
-                    "atraso": 4,
-                    "ultimo_concurso": 2909
+                    "repeticoes": 668,
+                    "atraso": 0,
+                    "ultimo_concurso": 2914
                 },
                 {
                     "valor": "49",
                     "repeticoes": 724,
-                    "atraso": 0,
+                    "atraso": 1,
                     "ultimo_concurso": 2913
                 },
                 {
                     "valor": "50",
                     "repeticoes": 697,
-                    "atraso": 10,
+                    "atraso": 11,
                     "ultimo_concurso": 2903
                 }
             ],
