@@ -8308,52 +8308,6 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 764,
-                "data": "27/10/2025",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "10",
-                    "24",
-                    "35",
-                    "43",
-                    "51",
-                    "68",
-                    "75"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 37540.96
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 43,
-                    "valor_individual": 1247.2
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 788,
-                    "valor_individual": 68.05
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 6986,
-                    "valor_individual": 6.0
-                }
-            ]
         }
     ],
     "quina": [
@@ -11201,45 +11155,6 @@
                     "faixa_nome": "2 acertos",
                     "ganhadores": 155610,
                     "valor_individual": 4.66
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 6863,
-                "data": "27/10/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "28",
-                    "47",
-                    "50",
-                    "65",
-                    "79"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 60,
-                    "valor_individual": 12716.6
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 4752,
-                    "valor_individual": 152.91
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 129202,
-                    "valor_individual": 5.62
                 }
             ]
         }
@@ -15186,60 +15101,6 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3523,
-                "data": "27/10/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "05",
-                    "06",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "19",
-                    "23",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 157,
-                    "valor_individual": 2260.47
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 5711,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 78407,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 444684,
-                    "valor_individual": 7.0
-                }
-            ]
         }
     ],
     "lotomania": [
@@ -17864,75 +17725,6 @@
                     "valor_individual": 0.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2841,
-                "data": "27/10/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "00",
-                    "07",
-                    "08",
-                    "10",
-                    "13",
-                    "16",
-                    "24",
-                    "26",
-                    "31",
-                    "37",
-                    "39",
-                    "41",
-                    "42",
-                    "43",
-                    "52",
-                    "57",
-                    "70",
-                    "73",
-                    "75",
-                    "82"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "20 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 99381.61
-                },
-                {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 79,
-                    "valor_individual": 2037.07
-                },
-                {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 631,
-                    "valor_individual": 255.03
-                },
-                {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 3618,
-                    "valor_individual": 44.47
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 15053,
-                    "valor_individual": 10.69
-                },
-                {
-                    "faixa_nome": "0 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                }
-            ]
         }
     ],
     "duplasena": [
@@ -20441,72 +20233,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 5413,
                     "valor_individual": 3.51
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2878,
-                "data": "27/10/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "04",
-                    "08",
-                    "27",
-                    "32",
-                    "37",
-                    "40",
-                    "05",
-                    "12",
-                    "25",
-                    "30",
-                    "33",
-                    "44"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 1483834.17
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 10152.13
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 415,
-                    "valor_individual": 139.78
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 8247,
-                    "valor_individual": 3.51
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 16,
-                    "valor_individual": 2855.28
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 739,
-                    "valor_individual": 78.5
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 11226,
-                    "valor_individual": 2.58
                 }
             ]
         }
