@@ -6490,6 +6490,52 @@
     "supersete": [
         {
             "identificacao": {
+                "concurso": 811,
+                "data": "13/02/2026",
+                "local": "Espaço da Sorte em SAO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "19",
+                    "26",
+                    "31",
+                    "42",
+                    "50",
+                    "62",
+                    "75"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 29942.61
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 48,
+                    "valor_individual": 891.14
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 626,
+                    "valor_individual": 68.33
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 5447,
+                    "valor_individual": 6.0
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 810,
                 "data": "11/02/2026",
                 "local": "Espaço da Sorte em SAO PAULO, SP"
@@ -8238,6 +8284,45 @@
         }
     ],
     "quina": [
+        {
+            "identificacao": {
+                "concurso": 6953,
+                "data": "13/02/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "07",
+                    "22",
+                    "35",
+                    "58",
+                    "63"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 19641652.34
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 131,
+                    "valor_individual": 5604.17
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 7310,
+                    "valor_individual": 95.64
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 159436,
+                    "valor_individual": 4.38
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 6952,
@@ -11087,6 +11172,60 @@
         }
     ],
     "lotofacil": [
+        {
+            "identificacao": {
+                "concurso": 3613,
+                "data": "13/02/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "01",
+                    "03",
+                    "04",
+                    "07",
+                    "09",
+                    "10",
+                    "11",
+                    "12",
+                    "15",
+                    "16",
+                    "18",
+                    "20",
+                    "21",
+                    "22",
+                    "23"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 2,
+                    "valor_individual": 863629.09
+                },
+                {
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 381,
+                    "valor_individual": 1357.95
+                },
+                {
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 10099,
+                    "valor_individual": 35.0
+                },
+                {
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 108415,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 542121,
+                    "valor_individual": 7.0
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 3612,
@@ -15033,6 +15172,75 @@
     "lotomania": [
         {
             "identificacao": {
+                "concurso": 2888,
+                "data": "13/02/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "04",
+                    "10",
+                    "18",
+                    "21",
+                    "24",
+                    "36",
+                    "40",
+                    "43",
+                    "44",
+                    "51",
+                    "59",
+                    "65",
+                    "67",
+                    "76",
+                    "80",
+                    "82",
+                    "83",
+                    "87",
+                    "93",
+                    "97"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "20 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "19 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 79565.87
+                },
+                {
+                    "faixa_nome": "18 acertos",
+                    "ganhadores": 62,
+                    "valor_individual": 2406.23
+                },
+                {
+                    "faixa_nome": "17 acertos",
+                    "ganhadores": 516,
+                    "valor_individual": 289.12
+                },
+                {
+                    "faixa_nome": "16 acertos",
+                    "ganhadores": 2956,
+                    "valor_individual": 50.46
+                },
+                {
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 14804,
+                    "valor_individual": 10.07
+                },
+                {
+                    "faixa_nome": "0 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 119348.83
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 2887,
                 "data": "11/02/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -17655,6 +17863,72 @@
         }
     ],
     "duplasena": [
+        {
+            "identificacao": {
+                "concurso": 2925,
+                "data": "13/02/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "06",
+                    "09",
+                    "17",
+                    "18",
+                    "22",
+                    "43",
+                    "01",
+                    "11",
+                    "27",
+                    "40",
+                    "45",
+                    "47"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 8,
+                    "valor_individual": 7074.16
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 526,
+                    "valor_individual": 122.96
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 11047,
+                    "valor_individual": 2.92
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 62252.54
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 16977.97
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 409,
+                    "valor_individual": 158.13
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 8686,
+                    "valor_individual": 3.72
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 2924,
