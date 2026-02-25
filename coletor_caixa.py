@@ -112,21 +112,6 @@ class ColetorFinal:
         except Exception as e:
             print(f"Erro ao coletar {loteria_id}: {e}")
             return []
-"""
-if __name__ == "__main__":
-    coletor = ColetorFinal()
-    loterias = ["megasena", "maismilionaria", "timemania", "diadesorte", "supersete", "quina", "lotofacil", "lotomania", "duplasena"]
-    
-    base_final = {}
-    for l in loterias:
-        base_final[l] = coletor.coletar_loteria(l, dias=91) 
-    
-    with open(coletor.arquivo_final, "w", encoding="utf-8") as f:
-        json.dump(base_final, f, indent=4, ensure_ascii=False)
-    
-    print(f"\n✅ CONCLUÍDO! Verifique o arquivo: {coletor.arquivo_final}")
-
-"""
 
 if __name__ == "__main__":
     coletor = ColetorFinal()
@@ -137,14 +122,23 @@ if __name__ == "__main__":
         dados_loteria = coletor.coletar_loteria(l, dias=91)
         if dados_loteria:
             base_final[l] = dados_loteria
-            print(f"✅ {l}: {len(dados_loteria)} concursos coletados.")
-        else:
-            print(f"⚠️ {l}: Falha na coleta ou sem dados novos.")
-    
-    # Salva apenas se houver dados para evitar sobrescrever o arquivo com erro
+
     if base_final:
-        with open(coletor.arquivo_final, "w", encoding="utf-8") as f:
-            json.dump(base_final, f, indent=4, ensure_ascii=False)
-        print(f"\n🚀 ARQUIVO ATUALIZADO COM SUCESSO: {coletor.arquivo_final}")
+        # Prepara os dados novos para comparar
+        novo_conteudo = json.dumps(base_final, indent=4, ensure_ascii=False)
+        
+        # Tenta ler o que já existe no arquivo atual
+        conteudo_atual = ""
+        if os.path.exists(coletor.arquivo_final):
+            with open(coletor.arquivo_final, "r", encoding="utf-8") as f:
+                conteudo_atual = f.read()
+        
+        # SÓ SALVA SE FOR DIFERENTE. Se for igual, o arquivo nem é tocado.
+        if novo_conteudo != conteudo_atual:
+            with open(coletor.arquivo_final, "w", encoding="utf-8") as f:
+                f.write(novo_conteudo)
+            print(f"\n🚀 DADOS NOVOS ENCONTRADOS! Arquivo atualizado.")
+        else:
+            print("\nℹ️ Tudo igual. Nenhum sorteio novo publicado ainda.")
     else:
-        print("\n❌ ERRO CRÍTICO: Nenhum dado foi coletado. Arquivo não alterado.")
+        print("\n❌ ERRO CRÍTICO: Nenhum dado foi coletado.")
