@@ -28,8 +28,18 @@ jobs:
         pip install -r requirements.txt
         pip install requests urllib3
 
-    - name: 1. Executar script de coleta (90 dias)
-      run: python coletor_caixa.py
+    - name: 1. Executar script de coleta com tentativa de reuso
+      run: |
+        # Tentativa 1
+        python coletor_caixa.py
+        
+        # Verifica se o arquivo foi alterado. 
+        # Se NÃO foi alterado, espera 30 minutos (1800 segundos) e tenta de novo.
+        if git diff --quiet numeros_lot.json; then
+          echo "Dados ainda não disponíveis. Aguardando 30 minutos para nova tentativa..."
+          sleep 1800
+          python coletor_caixa.py
+        fi
 
     - name: 2. Atualizar Histórico Total (Big Bang)
       run: python atualizador_historico.py
