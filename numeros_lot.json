@@ -19,17 +19,17 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 136,
                     "valor_individual": 27292.5
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 8973,
                     "valor_individual": 681.85
                 }
@@ -1179,52 +1179,52 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "6 acertos + 2 trevos",
+                    "faixa_nome": "6 acertos + 2 trevos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "6 acertos + 1 ou nenhum trevo",
+                    "faixa_nome": "6 acertos + 1 ou nenhum trevo",
                     "ganhadores": 2,
                     "valor_individual": 58114.33
                 },
                 {
-                    "fa_nome": "5 acertos + 2 trevos",
+                    "faixa_nome": "5 acertos + 2 trevos",
                     "ganhadores": 3,
                     "valor_individual": 30994.31
                 },
                 {
-                    "fa_nome": "5 acertos + 1 ou nenhum trevo",
+                    "faixa_nome": "5 acertos + 1 ou nenhum trevo",
                     "ganhadores": 14,
                     "valor_individual": 6641.64
                 },
                 {
-                    "fa_nome": "4 acertos + 2 trevos",
+                    "faixa_nome": "4 acertos + 2 trevos",
                     "ganhadores": 37,
                     "valor_individual": 1884.79
                 },
                 {
-                    "fa_nome": "4 acertos + 1 ou nenhum trevo",
+                    "faixa_nome": "4 acertos + 1 ou nenhum trevo",
                     "ganhadores": 680,
                     "valor_individual": 146.5
                 },
                 {
-                    "fa_nome": "3 acertos + 2 trevos",
+                    "faixa_nome": "3 acertos + 2 trevos",
                     "ganhadores": 710,
                     "valor_individual": 50.0
                 },
                 {
-                    "fa_nome": "3 acertos + 1 trevo",
+                    "faixa_nome": "3 acertos + 1 trevo",
                     "ganhadores": 7093,
                     "valor_individual": 24.0
                 },
                 {
-                    "fa_nome": "2 acertos + 2 trevos",
+                    "faixa_nome": "2 acertos + 2 trevos",
                     "ganhadores": 5502,
                     "valor_individual": 12.0
                 },
                 {
-                    "fa_nome": "2 acertos + 1 trevo",
+                    "faixa_nome": "2 acertos + 1 trevo",
                     "ganhadores": 54853,
                     "valor_individual": 6.0
                 }
@@ -3079,32 +3079,32 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "7 acertos",
+                    "faixa_nome": "7 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 104,
                     "valor_individual": 1762.87
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 2110,
                     "valor_individual": 10.5
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 20631,
                     "valor_individual": 3.5
                 },
                 {
-                    "fa_nome": "Time do Coração",
+                    "faixa_nome": "Time do Coração",
                     "ganhadores": 6042,
                     "valor_individual": 8.5
                 }
@@ -4989,27 +4989,27 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "7 acertos",
+                    "faixa_nome": "7 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 37,
                     "valor_individual": 1974.64
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 1174,
                     "valor_individual": 25.0
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 14402,
                     "valor_individual": 5.0
                 },
                 {
-                    "fa_nome": "Mês da Sorte",
+                    "faixa_nome": "Mês da Sorte",
                     "ganhadores": 50041,
                     "valor_individual": 2.5
                 }
@@ -6717,27 +6717,27 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "7 acertos",
+                    "faixa_nome": "7 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 2,
                     "valor_individual": 14427.22
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 117,
                     "valor_individual": 352.31
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 557,
                     "valor_individual": 74.0
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 5258,
                     "valor_individual": 6.0
                 }
@@ -8465,22 +8465,22 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 35,
                     "valor_individual": 7753.75
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 1942,
                     "valor_individual": 133.08
                 },
                 {
-                    "fa_nome": "2 acertos",
+                    "faixa_nome": "2 acertos",
                     "ganhadores": 47210,
                     "valor_individual": 5.47
                 }
@@ -8504,22 +8504,22 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 36,
                     "valor_individual": 6760.61
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 2550,
                     "valor_individual": 90.89
                 },
                 {
-                    "fa_nome": "2 acertos",
+                    "faixa_nome": "2 acertos",
                     "ganhadores": 59960,
                     "valor_individual": 3.86
                 }
@@ -11363,27 +11363,27 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "15 acertos",
+                    "faixa_nome": "15 acertos",
                     "ganhadores": 2,
                     "valor_individual": 755105.96
                 },
                 {
-                    "fa_nome": "14 acertos",
+                    "faixa_nome": "14 acertos",
                     "ganhadores": 264,
                     "valor_individual": 1713.51
                 },
                 {
-                    "fa_nome": "13 acertos",
+                    "faixa_nome": "13 acertos",
                     "ganhadores": 8518,
                     "valor_individual": 35.0
                 },
                 {
-                    "fa_nome": "12 acertos",
+                    "faixa_nome": "12 acertos",
                     "ganhadores": 97948,
                     "valor_individual": 14.0
                 },
                 {
-                    "fa_nome": "11 acertos",
+                    "faixa_nome": "11 acertos",
                     "ganhadores": 519020,
                     "valor_individual": 7.0
                 }
@@ -11417,27 +11417,27 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "15 acertos",
+                    "faixa_nome": "15 acertos",
                     "ganhadores": 3,
                     "valor_individual": 2210579.73
                 },
                 {
-                    "fa_nome": "14 acertos",
+                    "faixa_nome": "14 acertos",
                     "ganhadores": 617,
                     "valor_individual": 1618.66
                 },
                 {
-                    "fa_nome": "13 acertos",
+                    "faixa_nome": "13 acertos",
                     "ganhadores": 17375,
                     "valor_individual": 35.0
                 },
                 {
-                    "fa_nome": "12 acertos",
+                    "faixa_nome": "12 acertos",
                     "ganhadores": 192554,
                     "valor_individual": 14.0
                 },
                 {
-                    "fa_nome": "11 acertos",
+                    "faixa_nome": "11 acertos",
                     "ganhadores": 1008738,
                     "valor_individual": 7.0
                 }
@@ -15366,37 +15366,37 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "20 acertos",
+                    "faixa_nome": "20 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "19 acertos",
+                    "faixa_nome": "19 acertos",
                     "ganhadores": 4,
                     "valor_individual": 68463.77
                 },
                 {
-                    "fa_nome": "18 acertos",
+                    "faixa_nome": "18 acertos",
                     "ganhadores": 62,
                     "valor_individual": 2760.64
                 },
                 {
-                    "fa_nome": "17 acertos",
+                    "faixa_nome": "17 acertos",
                     "ganhadores": 532,
                     "valor_individual": 321.72
                 },
                 {
-                    "fa_nome": "16 acertos",
+                    "faixa_nome": "16 acertos",
                     "ganhadores": 3607,
                     "valor_individual": 47.45
                 },
                 {
-                    "fa_nome": "15 acertos",
+                    "faixa_nome": "15 acertos",
                     "ganhadores": 15316,
                     "valor_individual": 11.17
                 },
                 {
-                    "fa_nome": "0 acertos",
+                    "faixa_nome": "0 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 }
@@ -17982,42 +17982,42 @@
             },
             "financeiro": [
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 4,
                     "valor_individual": 15801.08
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 479,
                     "valor_individual": 150.8
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 9780,
                     "valor_individual": 3.69
                 },
                 {
-                    "fa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 1,
                     "valor_individual": 69524.77
                 },
                 {
-                    "fa_nome": "5 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 4,
                     "valor_individual": 14220.98
                 },
                 {
-                    "fa_nome": "4 acertos",
+                    "faixa_nome": "4 acertos",
                     "ganhadores": 578,
                     "valor_individual": 124.97
                 },
                 {
-                    "fa_nome": "3 acertos",
+                    "faixa_nome": "3 acertos",
                     "ganhadores": 11826,
                     "valor_individual": 3.05
                 }
