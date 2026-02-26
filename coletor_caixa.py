@@ -36,7 +36,7 @@ class ColetorEvoluido:
         premios = []
         for p in dados.get('premiacoes', []):
             premios.append({
-                "fa_nome": p.get('descricao', 'Outros'),
+                "faixa_nome": p.get('descricao', 'Outros'),
                 "ganhadores": p.get('ganhadores', 0),
                 "valor_individual": self.formatar_valor(p)
             })
@@ -138,3 +138,4 @@ if __name__ == "__main__":
         print("\n🚀 ARQUIVO ATUALIZADO COM SUCESSO!")
     else:
         print("\nℹ️ Nenhuma mudança necessária.")
+
