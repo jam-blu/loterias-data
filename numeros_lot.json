@@ -8398,55 +8398,48 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
+        }
+    ],
+    "quina": [
         {
             "identificacao": {
-                "concurso": 781,
-                "data": "05/12/2025",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
+                "concurso": 6969,
+                "data": "06/03/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "14",
-                    "25",
-                    "34",
-                    "44",
-                    "53",
-                    "66",
-                    "72"
+                    "24",
+                    "35",
+                    "37",
+                    "39",
+                    "45"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "7 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 9983.94
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 26,
-                    "valor_individual": 1097.13
-                },
-                {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 419,
-                    "valor_individual": 68.08
+                    "ganhadores": 64,
+                    "valor_individual": 9327.32
                 },
                 {
                     "faixa_nome": "3 acertos",
-                    "ganhadores": 3610,
-                    "valor_individual": 6.0
+                    "ganhadores": 5376,
+                    "valor_individual": 105.75
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 121838,
+                    "valor_individual": 4.66
                 }
             ]
-        }
-    ],
-    "quina": [
+        },
         {
             "identificacao": {
                 "concurso": 6968,
@@ -11293,48 +11286,63 @@
                     "valor_individual": 4.88
                 }
             ]
-        },
+        }
+    ],
+    "lotofacil": [
         {
             "identificacao": {
-                "concurso": 6895,
-                "data": "05/12/2025",
+                "concurso": 3629,
+                "data": "06/03/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
+                    "01",
+                    "04",
+                    "07",
+                    "13",
+                    "14",
                     "15",
-                    "38",
-                    "64",
-                    "67",
-                    "73"
+                    "16",
+                    "17",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 665977.43
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 44,
-                    "valor_individual": 10348.69
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 254,
+                    "valor_individual": 2356.13
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 3084,
-                    "valor_individual": 140.61
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 8120,
+                    "valor_individual": 35.0
                 },
                 {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 77136,
-                    "valor_individual": 5.62
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 107650,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 567454,
+                    "valor_individual": 7.0
                 }
             ]
-        }
-    ],
-    "lotofacil": [
+        },
         {
             "identificacao": {
                 "concurso": 3628,
@@ -15276,60 +15284,6 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3555,
-                "data": "05/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "07",
-                    "08",
-                    "10",
-                    "13",
-                    "14",
-                    "15",
-                    "18",
-                    "19",
-                    "20",
-                    "23",
-                    "24"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 862405.46
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 404,
-                    "valor_individual": 1278.83
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 10865,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 116861,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 599472,
-                    "valor_individual": 7.0
-                }
-            ]
         }
     ],
     "lotomania": [
@@ -17885,75 +17839,6 @@
                     "valor_individual": 87269.12
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2858,
-                "data": "05/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "03",
-                    "06",
-                    "08",
-                    "09",
-                    "20",
-                    "24",
-                    "25",
-                    "43",
-                    "44",
-                    "52",
-                    "58",
-                    "61",
-                    "66",
-                    "67",
-                    "77",
-                    "88",
-                    "89",
-                    "90",
-                    "93"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "20 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 88248.86
-                },
-                {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 45,
-                    "valor_individual": 2451.36
-                },
-                {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 360,
-                    "valor_individual": 306.41
-                },
-                {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 2477,
-                    "valor_individual": 44.53
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 10655,
-                    "valor_individual": 10.35
-                },
-                {
-                    "faixa_nome": "0 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                }
-            ]
         }
     ],
     "duplasena": [
@@ -20396,72 +20281,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 10100,
                     "valor_individual": 3.3
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2895,
-                "data": "05/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "09",
-                    "20",
-                    "24",
-                    "26",
-                    "30",
-                    "39",
-                    "04",
-                    "05",
-                    "06",
-                    "23",
-                    "35",
-                    "43"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 8,
-                    "valor_individual": 7436.85
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 458,
-                    "valor_individual": 148.45
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 9236,
-                    "valor_individual": 3.68
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 11,
-                    "valor_individual": 4867.76
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 652,
-                    "valor_individual": 104.28
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 11948,
-                    "valor_individual": 2.84
                 }
             ]
         }
