@@ -3016,79 +3016,6 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 314,
-                "data": "24/12/2025",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "07",
-                    "12",
-                    "14",
-                    "17",
-                    "21",
-                    "41"
-                ],
-                "campos_especiais": [
-                    "4",
-                    "5"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos + 2 trevos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos + 2 trevos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 7,
-                    "valor_individual": 31150.08
-                },
-                {
-                    "faixa_nome": "4 acertos + 2 trevos",
-                    "ganhadores": 40,
-                    "valor_individual": 1797.12
-                },
-                {
-                    "faixa_nome": "4 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 766,
-                    "valor_individual": 93.84
-                },
-                {
-                    "faixa_nome": "3 acertos + 2 trevos",
-                    "ganhadores": 648,
-                    "valor_individual": 50.0
-                },
-                {
-                    "faixa_nome": "3 acertos + 1 trevo",
-                    "ganhadores": 7530,
-                    "valor_individual": 24.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 2 trevos",
-                    "ganhadores": 5483,
-                    "valor_individual": 12.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 1 trevo",
-                    "ganhadores": 55463,
-                    "valor_individual": 6.0
-                }
-            ]
         }
     ],
     "timemania": [
@@ -8433,52 +8360,6 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 789,
-                "data": "24/12/2025",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "16",
-                    "25",
-                    "37",
-                    "44",
-                    "53",
-                    "69",
-                    "74"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 13,
-                    "valor_individual": 1638.41
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 274,
-                    "valor_individual": 77.73
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 2627,
-                    "valor_individual": 6.0
-                }
-            ]
         }
     ],
     "quina": [
@@ -11326,45 +11207,6 @@
                     "faixa_nome": "2 acertos",
                     "ganhadores": 128622,
                     "valor_individual": 4.56
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 6911,
-                "data": "24/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "03",
-                    "51",
-                    "56",
-                    "59",
-                    "72"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 39,
-                    "valor_individual": 11282.42
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 3065,
-                    "valor_individual": 136.72
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 79996,
-                    "valor_individual": 5.23
                 }
             ]
         }
@@ -15311,60 +15153,6 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3571,
-                "data": "24/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "08",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "17",
-                    "20",
-                    "22",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 607560.15
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 148,
-                    "valor_individual": 1721.51
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 6457,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 84735,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 427664,
-                    "valor_individual": 7.0
-                }
-            ]
         }
     ],
     "lotomania": [
@@ -17920,75 +17708,6 @@
                     "valor_individual": 127230.89
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2866,
-                "data": "24/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "07",
-                    "16",
-                    "17",
-                    "18",
-                    "23",
-                    "24",
-                    "38",
-                    "41",
-                    "44",
-                    "45",
-                    "50",
-                    "52",
-                    "56",
-                    "58",
-                    "66",
-                    "75",
-                    "76",
-                    "80",
-                    "90",
-                    "94"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "20 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 3,
-                    "valor_individual": 71505.7
-                },
-                {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 43,
-                    "valor_individual": 3117.98
-                },
-                {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 388,
-                    "valor_individual": 345.54
-                },
-                {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 2619,
-                    "valor_individual": 51.19
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 12097,
-                    "valor_individual": 11.08
-                },
-                {
-                    "faixa_nome": "0 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                }
-            ]
         }
     ],
     "duplasena": [
@@ -20365,72 +20084,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 12740,
                     "valor_individual": 3.05
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2903,
-                "data": "24/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "06",
-                    "11",
-                    "13",
-                    "45",
-                    "49",
-                    "50",
-                    "08",
-                    "09",
-                    "16",
-                    "17",
-                    "28",
-                    "34"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 12,
-                    "valor_individual": 5143.93
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 665,
-                    "valor_individual": 106.08
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 12749,
-                    "valor_individual": 2.76
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 14,
-                    "valor_individual": 3968.18
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 555,
-                    "valor_individual": 127.1
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 11492,
-                    "valor_individual": 3.06
                 }
             ]
         }
