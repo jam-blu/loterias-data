@@ -2,6 +2,41 @@
     "megasena": [
         {
             "identificacao": {
+                "concurso": 2991,
+                "data": "31/03/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "04",
+                    "14",
+                    "19",
+                    "23",
+                    "36",
+                    "53"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 36,
+                    "valor_individual": 27813.25
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 2483,
+                    "valor_individual": 664.7
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 2990,
                 "data": "28/03/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -3164,6 +3199,59 @@
     "timemania": [
         {
             "identificacao": {
+                "concurso": 2374,
+                "data": "31/03/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "07",
+                    "28",
+                    "35",
+                    "52",
+                    "57",
+                    "63",
+                    "74"
+                ],
+                "campos_especiais": [
+                    "FLORESTA /CE"
+                ]
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 5,
+                    "valor_individual": 38655.68
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 219,
+                    "valor_individual": 1260.78
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 3890,
+                    "valor_individual": 10.5
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 33143,
+                    "valor_individual": 3.5
+                },
+                {
+                    "faixa_nome": "Time do Coração",
+                    "ganhadores": 8570,
+                    "valor_individual": 8.5
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 2373,
                 "data": "28/03/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -5069,25 +5157,27 @@
                     "valor_individual": 8.5
                 }
             ]
-        },
+        }
+    ],
+    "diadesorte": [
         {
             "identificacao": {
-                "concurso": 2337,
-                "data": "30/12/2025",
+                "concurso": 1195,
+                "data": "31/03/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "08",
-                    "29",
-                    "35",
-                    "43",
-                    "62",
-                    "67",
-                    "70"
+                    "05",
+                    "11",
+                    "14",
+                    "15",
+                    "19",
+                    "26",
+                    "27"
                 ],
                 "campos_especiais": [
-                    "ATLETICO /GO"
+                    "Janeiro"
                 ]
             },
             "financeiro": [
@@ -5098,33 +5188,26 @@
                 },
                 {
                     "faixa_nome": "6 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 53047.72
+                    "ganhadores": 63,
+                    "valor_individual": 2240.11
                 },
                 {
                     "faixa_nome": "5 acertos",
-                    "ganhadores": 96,
-                    "valor_individual": 1578.8
+                    "ganhadores": 1835,
+                    "valor_individual": 25.0
                 },
                 {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 1614,
-                    "valor_individual": 10.5
+                    "ganhadores": 23804,
+                    "valor_individual": 5.0
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 15755,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 6136,
-                    "valor_individual": 8.5
+                    "faixa_nome": "Mês da Sorte",
+                    "ganhadores": 63306,
+                    "valor_individual": 2.5
                 }
             ]
-        }
-    ],
-    "diadesorte": [
+        },
         {
             "identificacao": {
                 "concurso": 1194,
@@ -6849,54 +6932,6 @@
                 {
                     "faixa_nome": "Mês da Sorte",
                     "ganhadores": 79873,
-                    "valor_individual": 2.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1158,
-                "data": "30/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "06",
-                    "09",
-                    "14",
-                    "15",
-                    "26",
-                    "27",
-                    "30"
-                ],
-                "campos_especiais": [
-                    "Janeiro"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 42,
-                    "valor_individual": 2101.75
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1365,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 16467,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 53089,
                     "valor_individual": 2.5
                 }
             ]
@@ -8653,6 +8688,45 @@
         }
     ],
     "quina": [
+        {
+            "identificacao": {
+                "concurso": 6990,
+                "data": "31/03/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "44",
+                    "59",
+                    "67",
+                    "71",
+                    "73"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 24,
+                    "valor_individual": 9742.6
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 1603,
+                    "valor_individual": 138.91
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 38447,
+                    "valor_individual": 5.79
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 6989,
@@ -11538,48 +11612,63 @@
                     "valor_individual": 5.49
                 }
             ]
-        },
+        }
+    ],
+    "lotofacil": [
         {
             "identificacao": {
-                "concurso": 6915,
-                "data": "30/12/2025",
+                "concurso": 3650,
+                "data": "31/03/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
+                    "02",
                     "05",
-                    "19",
+                    "06",
+                    "07",
+                    "08",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "16",
+                    "17",
+                    "20",
                     "21",
-                    "51",
-                    "66"
+                    "22",
+                    "25"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 2,
+                    "valor_individual": 3522335.86
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 63,
-                    "valor_individual": 7304.9
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 544,
+                    "valor_individual": 2015.55
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 5194,
-                    "valor_individual": 84.38
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 17363,
+                    "valor_individual": 35.0
                 },
                 {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 113287,
-                    "valor_individual": 3.86
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 195159,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 1067420,
+                    "valor_individual": 7.0
                 }
             ]
-        }
-    ],
-    "lotofacil": [
+        },
         {
             "identificacao": {
                 "concurso": 3649,
@@ -15572,60 +15661,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 539914,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3575,
-                "data": "30/12/2025",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "04",
-                    "05",
-                    "07",
-                    "08",
-                    "09",
-                    "10",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "17",
-                    "21",
-                    "22",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 3,
-                    "valor_individual": 1632554.23
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 402,
-                    "valor_individual": 2196.92
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 15660,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 194240,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 1070077,
                     "valor_individual": 7.0
                 }
             ]
