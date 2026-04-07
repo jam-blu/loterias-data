@@ -7041,6 +7041,52 @@
     "supersete": [
         {
             "identificacao": {
+                "concurso": 831,
+                "data": "06/04/2026",
+                "local": "Espaço da Sorte em SAO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "15",
+                    "28",
+                    "37",
+                    "48",
+                    "50",
+                    "64",
+                    "78"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 19836.03
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 71,
+                    "valor_individual": 1197.34
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 1187,
+                    "valor_individual": 71.61
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 10917,
+                    "valor_individual": 6.0
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 830,
                 "data": "01/04/2026",
                 "local": "Espaço da Sorte em SAO PAULO, SP"
@@ -8694,55 +8740,48 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
+        }
+    ],
+    "quina": [
         {
             "identificacao": {
-                "concurso": 794,
-                "data": "05/01/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
+                "concurso": 6994,
+                "data": "06/04/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "18",
-                    "24",
-                    "33",
-                    "47",
-                    "57",
-                    "66",
-                    "71"
+                    "21",
+                    "29",
+                    "44",
+                    "53",
+                    "80"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
                     "faixa_nome": "5 acertos",
-                    "ganhadores": 30,
-                    "valor_individual": 995.4
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
                 },
                 {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 357,
-                    "valor_individual": 83.64
+                    "ganhadores": 32,
+                    "valor_individual": 10963.47
                 },
                 {
                     "faixa_nome": "3 acertos",
-                    "ganhadores": 3644,
-                    "valor_individual": 6.0
+                    "ganhadores": 2480,
+                    "valor_individual": 134.72
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 68222,
+                    "valor_individual": 4.89
                 }
             ]
-        }
-    ],
-    "quina": [
+        },
         {
             "identificacao": {
                 "concurso": 6993,
@@ -11628,48 +11667,63 @@
                     "valor_individual": 4.34
                 }
             ]
-        },
+        }
+    ],
+    "lotofacil": [
         {
             "identificacao": {
-                "concurso": 6919,
-                "data": "05/01/2026",
+                "concurso": 3654,
+                "data": "06/04/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
+                    "01",
+                    "02",
+                    "03",
                     "04",
                     "06",
-                    "09",
-                    "26",
-                    "64"
+                    "07",
+                    "11",
+                    "15",
+                    "17",
+                    "19",
+                    "20",
+                    "22",
+                    "23",
+                    "24",
+                    "25"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "5 acertos",
+                    "faixa_nome": "15 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 130,
-                    "valor_individual": 4826.04
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 159,
+                    "valor_individual": 2398.69
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 8295,
-                    "valor_individual": 72.03
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 7326,
+                    "valor_individual": 35.0
                 },
                 {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 164477,
-                    "valor_individual": 3.63
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 96353,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 543313,
+                    "valor_individual": 7.0
                 }
             ]
-        }
-    ],
-    "lotofacil": [
+        },
         {
             "identificacao": {
                 "concurso": 3653,
@@ -15665,63 +15719,78 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
+        }
+    ],
+    "lotomania": [
         {
             "identificacao": {
-                "concurso": 3579,
-                "data": "05/01/2026",
+                "concurso": 2908,
+                "data": "06/04/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "08",
-                    "10",
+                    "00",
+                    "05",
                     "11",
-                    "13",
+                    "14",
                     "15",
-                    "17",
-                    "19",
                     "20",
-                    "21",
-                    "23",
-                    "25"
+                    "22",
+                    "26",
+                    "32",
+                    "38",
+                    "43",
+                    "46",
+                    "53",
+                    "58",
+                    "72",
+                    "77",
+                    "93",
+                    "94",
+                    "96",
+                    "97"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
+                    "faixa_nome": "20 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "19 acertos",
+                    "ganhadores": 13,
+                    "valor_individual": 36472.15
+                },
+                {
+                    "faixa_nome": "18 acertos",
+                    "ganhadores": 157,
+                    "valor_individual": 1887.49
+                },
+                {
+                    "faixa_nome": "17 acertos",
+                    "ganhadores": 1214,
+                    "valor_individual": 244.09
+                },
+                {
+                    "faixa_nome": "16 acertos",
+                    "ganhadores": 7440,
+                    "valor_individual": 39.83
+                },
+                {
                     "faixa_nome": "15 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 768413.77
+                    "ganhadores": 33697,
+                    "valor_individual": 8.79
                 },
                 {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 1138,
-                    "valor_individual": 574.55
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 27967,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 248629,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 1157192,
-                    "valor_individual": 7.0
+                    "faixa_nome": "0 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 237068.99
                 }
             ]
-        }
-    ],
-    "lotomania": [
+        },
         {
             "identificacao": {
                 "concurso": 2907,
@@ -18205,78 +18274,75 @@
                     "valor_individual": 226983.38
                 }
             ]
-        },
+        }
+    ],
+    "duplasena": [
         {
             "identificacao": {
-                "concurso": 2871,
-                "data": "05/01/2026",
+                "concurso": 2941,
+                "data": "06/04/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "01",
-                    "05",
-                    "09",
-                    "10",
-                    "12",
-                    "14",
-                    "20",
-                    "22",
+                    "19",
+                    "26",
                     "28",
-                    "30",
-                    "31",
-                    "51",
-                    "55",
-                    "67",
-                    "74",
-                    "80",
-                    "86",
-                    "87",
-                    "93",
-                    "97"
+                    "29",
+                    "34",
+                    "48",
+                    "02",
+                    "15",
+                    "44",
+                    "45",
+                    "46",
+                    "50"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "20 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 12,
-                    "valor_individual": 33157.27
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 10303.58
                 },
                 {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 140,
-                    "valor_individual": 1776.28
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 258,
+                    "valor_individual": 136.92
                 },
                 {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 1015,
-                    "valor_individual": 245.0
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 5225,
+                    "valor_individual": 3.38
                 },
                 {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 6103,
-                    "valor_individual": 40.74
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 24815,
-                    "valor_individual": 10.02
-                },
-                {
-                    "faixa_nome": "0 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 9273.22
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 281,
+                    "valor_individual": 125.71
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 5543,
+                    "valor_individual": 3.18
                 }
             ]
-        }
-    ],
-    "duplasena": [
+        },
         {
             "identificacao": {
                 "concurso": 2940,
@@ -20386,72 +20452,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 21639,
                     "valor_individual": 3.07
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2908,
-                "data": "05/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "17",
-                    "36",
-                    "43",
-                    "44",
-                    "48",
-                    "03",
-                    "16",
-                    "27",
-                    "34",
-                    "35",
-                    "46"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 19,
-                    "valor_individual": 5273.66
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 1042,
-                    "valor_individual": 109.89
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 18532,
-                    "valor_individual": 3.08
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 20,
-                    "valor_individual": 4508.98
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 1065,
-                    "valor_individual": 107.52
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 18175,
-                    "valor_individual": 3.15
                 }
             ]
         }
