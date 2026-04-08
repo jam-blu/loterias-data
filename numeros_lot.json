@@ -1259,41 +1259,6 @@
                     "valor_individual": 1052.22
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2956,
-                "data": "06/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "10",
-                    "18",
-                    "21",
-                    "24",
-                    "43",
-                    "47"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 23,
-                    "valor_individual": 63485.37
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 2703,
-                    "valor_individual": 890.44
-                }
-            ]
         }
     ],
     "maismilionaria": [
@@ -5157,59 +5122,6 @@
                     "valor_individual": 8.5
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2339,
-                "data": "06/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "07",
-                    "11",
-                    "21",
-                    "24",
-                    "31",
-                    "33",
-                    "57"
-                ],
-                "campos_especiais": [
-                    "JUAZEIRENSE /BA"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 14456.25
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 88,
-                    "valor_individual": 1173.39
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 1772,
-                    "valor_individual": 10.5
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 14336,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 2152,
-                    "valor_individual": 8.5
-                }
-            ]
         }
     ],
     "diadesorte": [
@@ -6985,54 +6897,6 @@
                 {
                     "faixa_nome": "Mês da Sorte",
                     "ganhadores": 41558,
-                    "valor_individual": 2.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1160,
-                "data": "06/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "10",
-                    "12",
-                    "14",
-                    "16",
-                    "18",
-                    "30",
-                    "31"
-                ],
-                "campos_especiais": [
-                    "Julho"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 3,
-                    "valor_individual": 67078.36
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 122,
-                    "valor_individual": 1009.87
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1849,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 16561,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 39644,
                     "valor_individual": 2.5
                 }
             ]
@@ -11628,45 +11492,6 @@
                     "valor_individual": 6.24
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 6920,
-                "data": "06/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "04",
-                    "28",
-                    "34",
-                    "42",
-                    "47"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 12843835.2
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 77,
-                    "valor_individual": 8553.65
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 6177,
-                    "valor_individual": 101.54
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 144248,
-                    "valor_individual": 4.34
-                }
-            ]
         }
     ],
     "lotofacil": [
@@ -15662,60 +15487,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 628338,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3580,
-                "data": "06/01/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "04",
-                    "05",
-                    "06",
-                    "08",
-                    "09",
-                    "12",
-                    "13",
-                    "15",
-                    "16",
-                    "19",
-                    "20",
-                    "21",
-                    "23",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 13,
-                    "valor_individual": 535077.32
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 983,
-                    "valor_individual": 1123.74
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 24818,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 259037,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 1280127,
                     "valor_individual": 7.0
                 }
             ]
