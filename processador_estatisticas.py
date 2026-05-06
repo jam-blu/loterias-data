@@ -2,10 +2,22 @@ import json
 import os
 from datetime import datetime
 
+# Atualizado em 06/05/2026 - código modificado para eliminar caracteres nulos.
+
 class ProcessadorEstatisticas:
+    """
     def __init__(self):
         self.arquivo_historico = "historico_total.json"
         self.arquivo_estatisticas = "estatisticas_lot.json"
+        """
+    
+    def __init__(self):
+        # Localiza a pasta onde o script atual está salvo
+        caminho_base = os.path.dirname(os.path.abspath(__file__))
+        
+        # Define os caminhos absolutos para leitura e gravação
+        self.arquivo_historico = os.path.join(caminho_base, "historico_total.json")
+        self.arquivo_estatisticas = os.path.join(caminho_base, "estatisticas_lot.json")
 
     def processar(self):
         if not os.path.exists(self.arquivo_historico):
@@ -38,6 +50,7 @@ class ProcessadorEstatisticas:
                 
                 # Processa Dezenas Normais
                 for d in conc['dezenas']:
+                    if isinstance(d, str): d = d.replace('\x00', '').strip()
                     if d not in stats_dezenas:
                         stats_dezenas[d] = {"repeticoes": 0, "ultimo_concurso": 0}
                     
@@ -48,6 +61,11 @@ class ProcessadorEstatisticas:
                 # Processa Campos Especiais (Trevos, Time, Mês)
                 for esp in conc.get('especial', []):
                     if not esp: continue
+                    if isinstance(esp, str):
+                        esp = esp.replace('\x00', '').strip()
+                        if loteria == "timemania" and "/" in esp:
+                            p = esp.split("/")
+                            esp = f"{p[0].strip()} /{p[1].strip()}"
                     if esp not in stats_especiais:
                         stats_especiais[esp] = {"repeticoes": 0, "ultimo_concurso": 0}
                     
