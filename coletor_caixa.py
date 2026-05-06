@@ -5,6 +5,8 @@ import time
 from datetime import datetime, timedelta
 import urllib3
 
+# Alterado em 06-05-2026 para eliminar caracteres nulos do arquivo gerado.
+
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class ColetorEvoluido:
@@ -45,10 +47,26 @@ class ColetorEvoluido:
         if loteria_id == "supersete":
             dezenas = self.ajustar_super_sete(dezenas)
 
+        """
         especial = []
         if loteria_id == "maismilionaria": especial = dados.get('trevos', [])
         elif loteria_id == "timemania": especial = [dados.get('timeCoracao', "")]
         elif loteria_id == "diadesorte": especial = [dados.get('mesSorte', "")]
+        """
+
+        especial = []
+        if loteria_id == "maismilionaria":
+            especial = dados.get('trevos', [])
+        elif loteria_id == "timemania":
+            time_bruto = dados.get('timeCoracao', "").replace('\x00', '').strip()
+            if "/" in time_bruto:
+                p = time_bruto.split("/")
+                time_limpo = f"{p[0].strip()} /{p[1].strip()}"
+            else:
+                time_limpo = time_bruto
+            especial = [time_limpo]
+        elif loteria_id == "diadesorte":
+            especial = [dados.get('mesSorte', "").replace('\x00', '').strip()]
 
         return {
             "identificacao": {
@@ -138,4 +156,3 @@ if __name__ == "__main__":
         print("\n🚀 ARQUIVO ATUALIZADO COM SUCESSO!")
     else:
         print("\nℹ️ Nenhuma mudança necessária.")
-
