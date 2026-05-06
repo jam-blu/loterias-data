@@ -3,6 +3,7 @@ import json
 import os
 import time
 import urllib3
+#atualizado em 06-05-2026 para limpar sujeira importada do arquivo original
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -22,8 +23,18 @@ class AtualizadorHistorico:
             dezenas = self.ajustar_super_sete(dezenas)
         especial = []
         if loteria_id == "maismilionaria": especial = dados.get('trevos', [])
-        elif loteria_id == "timemania": especial = [dados.get('timeCoracao', "")]
-        elif loteria_id == "diadesorte": especial = [dados.get('mesSorte', "")]
+        # elif loteria_id == "timemania": especial = [dados.get('timeCoracao', "")]
+        # elif loteria_id == "diadesorte": especial = [dados.get('mesSorte', "")]
+        elif loteria_id == "timemania":
+            time_bruto = dados.get('timeCoracao', "").replace('\x00', '').strip()
+            if "/" in time_bruto:
+                partes = time_bruto.split("/")
+                time_limpo = f"{partes[0].strip()} /{partes[1].strip()}"
+            else:
+                time_limpo = time_bruto
+            especial = [time_limpo]
+        elif loteria_id == "diadesorte":
+            especial = [dados.get('mesSorte', "").replace('\x00', '').strip()]
         return {
             "concurso": dados.get('concurso'), 
             "data": dados.get('data'), 
