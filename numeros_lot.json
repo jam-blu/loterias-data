@@ -8459,52 +8459,6 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 809,
-                "data": "09/02/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "16",
-                    "21",
-                    "37",
-                    "40",
-                    "58",
-                    "65",
-                    "75"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 28,
-                    "valor_individual": 1545.94
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 520,
-                    "valor_individual": 83.24
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 4848,
-                    "valor_individual": 6.0
-                }
-            ]
         }
     ],
     "quina": [
@@ -11313,45 +11267,6 @@
                     "faixa_nome": "2 acertos",
                     "ganhadores": 128624,
                     "valor_individual": 4.4
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 6949,
-                "data": "09/02/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "21",
-                    "51",
-                    "60",
-                    "67",
-                    "73"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 31,
-                    "valor_individual": 19822.44
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 3282,
-                    "valor_individual": 178.31
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 94236,
-                    "valor_individual": 6.21
                 }
             ]
         }
@@ -15244,60 +15159,6 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3609,
-                "data": "09/02/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "05",
-                    "06",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "17",
-                    "19",
-                    "20",
-                    "22",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 759280.97
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 362,
-                    "valor_individual": 1256.54
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 11046,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 118067,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 597635,
-                    "valor_individual": 7.0
-                }
-            ]
         }
     ],
     "lotomania": [
@@ -17715,75 +17576,6 @@
                     "valor_individual": 0.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2886,
-                "data": "09/02/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "03",
-                    "05",
-                    "12",
-                    "13",
-                    "28",
-                    "35",
-                    "48",
-                    "49",
-                    "50",
-                    "72",
-                    "74",
-                    "75",
-                    "76",
-                    "77",
-                    "80",
-                    "81",
-                    "82",
-                    "90",
-                    "92"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "20 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 3,
-                    "valor_individual": 70315.92
-                },
-                {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 58,
-                    "valor_individual": 2273.14
-                },
-                {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 481,
-                    "valor_individual": 274.1
-                },
-                {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 2880,
-                    "valor_individual": 45.77
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 12274,
-                    "valor_individual": 10.74
-                },
-                {
-                    "faixa_nome": "0 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                }
-            ]
         }
     ],
     "duplasena": [
@@ -19830,72 +19622,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 9343,
                     "valor_individual": 3.15
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2923,
-                "data": "09/02/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "04",
-                    "10",
-                    "12",
-                    "22",
-                    "34",
-                    "35",
-                    "05",
-                    "14",
-                    "15",
-                    "20",
-                    "23",
-                    "41"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 11,
-                    "valor_individual": 5189.5
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 583,
-                    "valor_individual": 111.9
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 11190,
-                    "valor_individual": 2.91
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 11,
-                    "valor_individual": 4670.55
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 575,
-                    "valor_individual": 113.45
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 10172,
-                    "valor_individual": 3.2
                 }
             ]
         }
