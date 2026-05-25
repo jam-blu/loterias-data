@@ -2,6 +2,41 @@
     "megasena": [
         {
             "identificacao": {
+                "concurso": 3010,
+                "data": "24/05/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "03",
+                    "30",
+                    "33",
+                    "35",
+                    "45",
+                    "47"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 2,
+                    "valor_individual": 168170026.83
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 590,
+                    "valor_individual": 13890.02
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 37565,
+                    "valor_individual": 311.65
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 3009,
                 "data": "16/05/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
