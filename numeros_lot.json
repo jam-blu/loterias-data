@@ -2,6 +2,41 @@
     "megasena": [
         {
             "identificacao": {
+                "concurso": 3015,
+                "data": "06/06/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "09",
+                    "18",
+                    "26",
+                    "31",
+                    "53",
+                    "58"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 30424768.27
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 68,
+                    "valor_individual": 37037.29
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 4932,
+                    "valor_individual": 841.73
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 3014,
                 "data": "02/06/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -1154,44 +1189,82 @@
                     "valor_individual": 1396.18
                 }
             ]
-        },
+        }
+    ],
+    "maismilionaria": [
         {
             "identificacao": {
-                "concurso": 2981,
-                "data": "07/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+                "concurso": 361,
+                "data": "06/06/2026",
+                "local": "Espaço da Sorte em SAO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "15",
+                    "10",
+                    "21",
                     "22",
-                    "27",
-                    "32",
-                    "50",
-                    "58"
+                    "31",
+                    "33",
+                    "35"
                 ],
-                "campos_especiais": []
+                "campos_especiais": [
+                    "1",
+                    "2"
+                ]
             },
             "financeiro": [
                 {
-                    "faixa_nome": "6 acertos",
+                    "faixa_nome": "6 acertos + 2 trevos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 41,
-                    "valor_individual": 61085.4
+                    "faixa_nome": "6 acertos + 1 ou nenhum trevo",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 2992,
-                    "valor_individual": 1379.77
+                    "faixa_nome": "5 acertos + 2 trevos",
+                    "ganhadores": 4,
+                    "valor_individual": 66920.84
+                },
+                {
+                    "faixa_nome": "5 acertos + 1 ou nenhum trevo",
+                    "ganhadores": 28,
+                    "valor_individual": 4248.94
+                },
+                {
+                    "faixa_nome": "4 acertos + 2 trevos",
+                    "ganhadores": 76,
+                    "valor_individual": 1677.21
+                },
+                {
+                    "faixa_nome": "4 acertos + 1 ou nenhum trevo",
+                    "ganhadores": 992,
+                    "valor_individual": 128.49
+                },
+                {
+                    "faixa_nome": "3 acertos + 2 trevos",
+                    "ganhadores": 1382,
+                    "valor_individual": 50.0
+                },
+                {
+                    "faixa_nome": "3 acertos + 1 trevo",
+                    "ganhadores": 11539,
+                    "valor_individual": 24.0
+                },
+                {
+                    "faixa_nome": "2 acertos + 2 trevos",
+                    "ganhadores": 9846,
+                    "valor_individual": 12.0
+                },
+                {
+                    "faixa_nome": "2 acertos + 1 trevo",
+                    "ganhadores": 94066,
+                    "valor_individual": 6.0
                 }
             ]
-        }
-    ],
-    "maismilionaria": [
+        },
         {
             "identificacao": {
                 "concurso": 360,
@@ -3016,82 +3089,62 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
+        }
+    ],
+    "timemania": [
         {
             "identificacao": {
-                "concurso": 335,
-                "data": "07/03/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
+                "concurso": 2400,
+                "data": "06/06/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "01",
-                    "04",
-                    "15",
-                    "16",
-                    "41",
-                    "50"
+                    "22",
+                    "47",
+                    "51",
+                    "57",
+                    "58",
+                    "64",
+                    "73"
                 ],
                 "campos_especiais": [
-                    "2",
-                    "5"
+                    "YPIRANGA /RS"
                 ]
             },
             "financeiro": [
                 {
-                    "faixa_nome": "6 acertos + 2 trevos",
+                    "faixa_nome": "7 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "6 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 8,
+                    "valor_individual": 45225.67
                 },
                 {
-                    "faixa_nome": "5 acertos + 2 trevos",
-                    "ganhadores": 3,
-                    "valor_individual": 67229.25
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 282,
+                    "valor_individual": 1832.85
                 },
                 {
-                    "faixa_nome": "5 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 32,
-                    "valor_individual": 2801.22
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 5718,
+                    "valor_individual": 10.5
                 },
                 {
-                    "faixa_nome": "4 acertos + 2 trevos",
-                    "ganhadores": 69,
-                    "valor_individual": 1391.9
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 56095,
+                    "valor_individual": 3.5
                 },
                 {
-                    "faixa_nome": "4 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 861,
-                    "valor_individual": 111.54
-                },
-                {
-                    "faixa_nome": "3 acertos + 2 trevos",
-                    "ganhadores": 1308,
-                    "valor_individual": 50.0
-                },
-                {
-                    "faixa_nome": "3 acertos + 1 trevo",
-                    "ganhadores": 8920,
-                    "valor_individual": 24.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 2 trevos",
-                    "ganhadores": 9745,
-                    "valor_individual": 12.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 1 trevo",
-                    "ganhadores": 62149,
-                    "valor_individual": 6.0
+                    "faixa_nome": "Time do Coração",
+                    "ganhadores": 13543,
+                    "valor_individual": 8.5
                 }
             ]
-        }
-    ],
-    "timemania": [
+        },
         {
             "identificacao": {
                 "concurso": 2399,
@@ -4946,25 +4999,27 @@
                     "valor_individual": 8.5
                 }
             ]
-        },
+        }
+    ],
+    "diadesorte": [
         {
             "identificacao": {
-                "concurso": 2364,
-                "data": "07/03/2026",
+                "concurso": 1222,
+                "data": "06/06/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
+                    "06",
+                    "10",
+                    "11",
+                    "20",
+                    "21",
                     "24",
-                    "26",
-                    "31",
-                    "41",
-                    "52",
-                    "54",
-                    "55"
+                    "30"
                 ],
                 "campos_especiais": [
-                    "VILA NOVA /GO"
+                    "Outubro"
                 ]
             },
             "financeiro": [
@@ -4975,33 +5030,26 @@
                 },
                 {
                     "faixa_nome": "6 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 29216.59
+                    "ganhadores": 29,
+                    "valor_individual": 3611.47
                 },
                 {
                     "faixa_nome": "5 acertos",
-                    "ganhadores": 106,
-                    "valor_individual": 1968.77
+                    "ganhadores": 1777,
+                    "valor_individual": 25.0
                 },
                 {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 2183,
-                    "valor_individual": 10.5
+                    "ganhadores": 18837,
+                    "valor_individual": 5.0
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 22209,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 6369,
-                    "valor_individual": 8.5
+                    "faixa_nome": "Mês da Sorte",
+                    "ganhadores": 67957,
+                    "valor_individual": 2.5
                 }
             ]
-        }
-    ],
-    "diadesorte": [
+        },
         {
             "identificacao": {
                 "concurso": 1221,
@@ -6729,54 +6777,6 @@
                     "valor_individual": 2.5
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1185,
-                "data": "07/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "05",
-                    "08",
-                    "15",
-                    "22",
-                    "25",
-                    "31"
-                ],
-                "campos_especiais": [
-                    "Março"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 54,
-                    "valor_individual": 2639.34
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 2056,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 24458,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 106234,
-                    "valor_individual": 2.5
-                }
-            ]
         }
     ],
     "supersete": [
@@ -8484,6 +8484,45 @@
         }
     ],
     "quina": [
+        {
+            "identificacao": {
+                "concurso": 7044,
+                "data": "06/06/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "02",
+                    "05",
+                    "30",
+                    "54",
+                    "73"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 26,
+                    "valor_individual": 12023.21
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 2587,
+                    "valor_individual": 115.08
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 68613,
+                    "valor_individual": 4.33
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 7043,
@@ -11330,48 +11369,63 @@
                     "valor_individual": 5.24
                 }
             ]
-        },
+        }
+    ],
+    "lotofacil": [
         {
             "identificacao": {
-                "concurso": 6970,
-                "data": "07/03/2026",
+                "concurso": 3704,
+                "data": "06/06/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "31",
-                    "41",
-                    "47",
-                    "59",
-                    "78"
+                    "01",
+                    "03",
+                    "04",
+                    "09",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "19",
+                    "20",
+                    "22",
+                    "23",
+                    "25"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "5 acertos",
+                    "faixa_nome": "15 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 28,
-                    "valor_individual": 21771.99
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 323,
+                    "valor_individual": 1442.42
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 3702,
-                    "valor_individual": 156.83
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 10590,
+                    "valor_individual": 35.0
                 },
                 {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 100681,
-                    "valor_individual": 5.76
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 121084,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 625742,
+                    "valor_individual": 7.0
                 }
             ]
-        }
-    ],
-    "lotofacil": [
+        },
         {
             "identificacao": {
                 "concurso": 3703,
@@ -15310,60 +15364,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 598933,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3630,
-                "data": "07/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "07",
-                    "08",
-                    "11",
-                    "12",
-                    "14",
-                    "15",
-                    "17",
-                    "19",
-                    "23",
-                    "24"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 4,
-                    "valor_individual": 1832000.33
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 481,
-                    "valor_individual": 2154.7
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 17030,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 199075,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 1076603,
                     "valor_individual": 7.0
                 }
             ]
