@@ -8486,6 +8486,45 @@
     "quina": [
         {
             "identificacao": {
+                "concurso": 7051,
+                "data": "28/06/2026",
+                "local": "CENTRO DE TRADIÇÕES NORDESTINAS em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "19",
+                    "32",
+                    "50",
+                    "73",
+                    "75"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 9,
+                    "valor_individual": 26603233.33
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 1674,
+                    "valor_individual": 12234.37
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 144198,
+                    "valor_individual": 135.26
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 3654461,
+                    "valor_individual": 5.33
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 7050,
                 "data": "14/06/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
