@@ -8435,52 +8435,6 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 829,
-                "data": "30/03/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "12",
-                    "25",
-                    "35",
-                    "44",
-                    "54",
-                    "63",
-                    "75"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 3,
-                    "valor_individual": 15862.07
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 58,
-                    "valor_individual": 1172.07
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 997,
-                    "valor_individual": 68.18
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 9979,
-                    "valor_individual": 6.0
-                }
-            ]
         }
     ],
     "quina": [
@@ -10899,45 +10853,6 @@
                     "faixa_nome": "2 acertos",
                     "ganhadores": 38447,
                     "valor_individual": 5.79
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 6989,
-                "data": "30/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "17",
-                    "26",
-                    "48",
-                    "54"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 552930.8
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 28,
-                    "valor_individual": 8463.23
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 2162,
-                    "valor_individual": 104.38
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 54573,
-                    "valor_individual": 4.13
                 }
             ]
         }
@@ -14830,60 +14745,6 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3649,
-                "data": "30/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "06",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "17",
-                    "18",
-                    "20",
-                    "21",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 4646180.1
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 342,
-                    "valor_individual": 1938.59
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 12337,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 161664,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 893596,
-                    "valor_individual": 7.0
-                }
-            ]
         }
     ],
     "lotomania": [
@@ -17363,75 +17224,6 @@
                     "faixa_nome": "15 acertos",
                     "ganhadores": 24532,
                     "valor_individual": 9.15
-                },
-                {
-                    "faixa_nome": "0 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2906,
-                "data": "30/03/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "00",
-                    "02",
-                    "04",
-                    "06",
-                    "10",
-                    "11",
-                    "12",
-                    "19",
-                    "26",
-                    "31",
-                    "37",
-                    "43",
-                    "45",
-                    "54",
-                    "73",
-                    "74",
-                    "76",
-                    "79",
-                    "91",
-                    "97"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "20 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 11,
-                    "valor_individual": 31306.94
-                },
-                {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 172,
-                    "valor_individual": 1787.66
-                },
-                {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 1308,
-                    "valor_individual": 164.55
-                },
-                {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 7149,
-                    "valor_individual": 30.1
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 27034,
-                    "valor_individual": 7.96
                 },
                 {
                     "faixa_nome": "0 acertos",
