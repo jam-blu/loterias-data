@@ -2,6 +2,41 @@
     "megasena": [
         {
             "identificacao": {
+                "concurso": 3039,
+                "data": "02/08/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "14",
+                    "16",
+                    "21",
+                    "39",
+                    "53",
+                    "58"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 86,
+                    "valor_individual": 45932.28
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 6332,
+                    "valor_individual": 1028.31
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 3038,
                 "data": "30/07/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -4966,6 +5001,54 @@
     "diadesorte": [
         {
             "identificacao": {
+                "concurso": 1261,
+                "data": "02/08/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "01",
+                    "08",
+                    "14",
+                    "19",
+                    "24",
+                    "27",
+                    "28"
+                ],
+                "campos_especiais": [
+                    "Outubro"
+                ]
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 775314.04
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 40,
+                    "valor_individual": 2136.38
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 1219,
+                    "valor_individual": 25.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 15621,
+                    "valor_individual": 5.0
+                },
+                {
+                    "faixa_nome": "Mês da Sorte",
+                    "ganhadores": 61736,
+                    "valor_individual": 2.5
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 1260,
                 "data": "31/07/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -9260,6 +9343,45 @@
     "quina": [
         {
             "identificacao": {
+                "concurso": 7081,
+                "data": "02/08/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "14",
+                    "22",
+                    "28",
+                    "40",
+                    "45"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 52,
+                    "valor_individual": 6530.93
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 3184,
+                    "valor_individual": 101.58
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 73340,
+                    "valor_individual": 4.41
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 7080,
                 "data": "31/07/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -11795,6 +11917,60 @@
         }
     ],
     "lotofacil": [
+        {
+            "identificacao": {
+                "concurso": 3751,
+                "data": "02/08/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "01",
+                    "02",
+                    "04",
+                    "07",
+                    "08",
+                    "09",
+                    "11",
+                    "12",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "21",
+                    "23",
+                    "24"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 1,
+                    "valor_individual": 1799546.99
+                },
+                {
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 282,
+                    "valor_individual": 1911.47
+                },
+                {
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 8748,
+                    "valor_individual": 35.0
+                },
+                {
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 97223,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 494881,
+                    "valor_individual": 7.0
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 3750,
