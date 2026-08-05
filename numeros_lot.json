@@ -1224,41 +1224,6 @@
                     "valor_individual": 1112.08
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3004,
-                "data": "05/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "05",
-                    "07",
-                    "22",
-                    "50",
-                    "59"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 32,
-                    "valor_individual": 39390.35
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 2740,
-                    "valor_individual": 758.29
-                }
-            ]
         }
     ],
     "maismilionaria": [
@@ -5069,59 +5034,6 @@
                     "valor_individual": 8.5
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2387,
-                "data": "05/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "03",
-                    "05",
-                    "10",
-                    "27",
-                    "42",
-                    "44",
-                    "52"
-                ],
-                "campos_especiais": [
-                    "POUSO ALEGRE /MG"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 11,
-                    "valor_individual": 30661.16
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 424,
-                    "valor_individual": 1136.36
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 7208,
-                    "valor_individual": 10.5
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 65938,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 12315,
-                    "valor_individual": 8.5
-                }
-            ]
         }
     ],
     "diadesorte": [
@@ -7617,54 +7529,6 @@
                 {
                     "faixa_nome": "Mês da Sorte",
                     "ganhadores": 50605,
-                    "valor_individual": 2.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1209,
-                "data": "05/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "08",
-                    "09",
-                    "10",
-                    "12",
-                    "15",
-                    "27",
-                    "28"
-                ],
-                "campos_especiais": [
-                    "Março"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 37,
-                    "valor_individual": 2083.42
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1164,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 14751,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 49492,
                     "valor_individual": 2.5
                 }
             ]
@@ -11916,45 +11780,6 @@
                     "valor_individual": 4.25
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 7017,
-                "data": "05/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "12",
-                    "35",
-                    "48",
-                    "58",
-                    "60"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 43,
-                    "valor_individual": 11957.57
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 4088,
-                    "valor_individual": 119.78
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 99351,
-                    "valor_individual": 4.92
-                }
-            ]
         }
     ],
     "lotofacil": [
@@ -15950,60 +15775,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 604383,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3677,
-                "data": "05/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "02",
-                    "03",
-                    "08",
-                    "09",
-                    "10",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "18",
-                    "22",
-                    "23",
-                    "24"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 4,
-                    "valor_individual": 1217901.82
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 580,
-                    "valor_individual": 1604.48
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 16252,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 171213,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 913725,
                     "valor_individual": 7.0
                 }
             ]
