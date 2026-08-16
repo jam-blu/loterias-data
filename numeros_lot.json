@@ -1224,41 +1224,6 @@
                     "valor_individual": 311.65
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3009,
-                "data": "16/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "04",
-                    "06",
-                    "08",
-                    "18",
-                    "21",
-                    "30"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 136,
-                    "valor_individual": 19052.37
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 6714,
-                    "valor_individual": 636.14
-                }
-            ]
         }
     ],
     "maismilionaria": [
@@ -3083,79 +3048,6 @@
                 {
                     "faixa_nome": "2 acertos + 1 trevo",
                     "ganhadores": 75443,
-                    "valor_individual": 6.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 355,
-                "data": "16/05/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "06",
-                    "07",
-                    "10",
-                    "30",
-                    "40",
-                    "47"
-                ],
-                "campos_especiais": [
-                    "1",
-                    "5"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos + 2 trevos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos + 2 trevos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 19,
-                    "valor_individual": 18308.39
-                },
-                {
-                    "faixa_nome": "4 acertos + 2 trevos",
-                    "ganhadores": 56,
-                    "valor_individual": 2047.83
-                },
-                {
-                    "faixa_nome": "4 acertos + 1 ou nenhum trevo",
-                    "ganhadores": 753,
-                    "valor_individual": 152.29
-                },
-                {
-                    "faixa_nome": "3 acertos + 2 trevos",
-                    "ganhadores": 1018,
-                    "valor_individual": 50.0
-                },
-                {
-                    "faixa_nome": "3 acertos + 1 trevo",
-                    "ganhadores": 8462,
-                    "valor_individual": 24.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 2 trevos",
-                    "ganhadores": 8134,
-                    "valor_individual": 12.0
-                },
-                {
-                    "faixa_nome": "2 acertos + 1 trevo",
-                    "ganhadores": 68828,
                     "valor_individual": 6.0
                 }
             ]
@@ -5066,59 +4958,6 @@
                 {
                     "faixa_nome": "Time do Coração",
                     "ganhadores": 11559,
-                    "valor_individual": 8.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2392,
-                "data": "16/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "04",
-                    "12",
-                    "17",
-                    "23",
-                    "59",
-                    "75",
-                    "78"
-                ],
-                "campos_especiais": [
-                    "TOMBENSE /MG"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 8,
-                    "valor_individual": 29676.14
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 258,
-                    "valor_individual": 1314.55
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 4328,
-                    "valor_individual": 10.5
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 40947,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 7677,
                     "valor_individual": 8.5
                 }
             ]
@@ -7905,54 +7744,6 @@
                 {
                     "faixa_nome": "Mês da Sorte",
                     "ganhadores": 98481,
-                    "valor_individual": 2.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1214,
-                "data": "16/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "02",
-                    "03",
-                    "19",
-                    "20",
-                    "21",
-                    "28",
-                    "30"
-                ],
-                "campos_especiais": [
-                    "Dezembro"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 38,
-                    "valor_individual": 3785.16
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1624,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 22006,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 68324,
                     "valor_individual": 2.5
                 }
             ]
@@ -12289,45 +12080,6 @@
                     "valor_individual": 5.38
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 7027,
-                "data": "16/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "24",
-                    "27",
-                    "34",
-                    "44",
-                    "47"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 89,
-                    "valor_individual": 5866.85
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 5378,
-                    "valor_individual": 92.46
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 121656,
-                    "valor_individual": 4.08
-                }
-            ]
         }
     ],
     "lotofacil": [
@@ -16377,60 +16129,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 465837,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3687,
-                "data": "16/05/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "12",
-                    "13",
-                    "14",
-                    "16",
-                    "17",
-                    "18",
-                    "20",
-                    "21",
-                    "23",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 1968207.2
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 179,
-                    "valor_individual": 2305.52
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 6863,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 92892,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 526261,
                     "valor_individual": 7.0
                 }
             ]
