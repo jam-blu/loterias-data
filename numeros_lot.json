@@ -2,6 +2,41 @@
     "megasena": [
         {
             "identificacao": {
+                "concurso": 3053,
+                "data": "03/09/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "01",
+                    "13",
+                    "25",
+                    "35",
+                    "39",
+                    "51"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 50,
+                    "valor_individual": 36500.74
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 3297,
+                    "valor_individual": 912.43
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 3052,
                 "data": "01/09/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -3234,6 +3269,59 @@
     "timemania": [
         {
             "identificacao": {
+                "concurso": 2437,
+                "data": "03/09/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "10",
+                    "21",
+                    "26",
+                    "30",
+                    "33",
+                    "51",
+                    "66"
+                ],
+                "campos_especiais": [
+                    "ABC /RN"
+                ]
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 3,
+                    "valor_individual": 44940.83
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 143,
+                    "valor_individual": 1346.87
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 2601,
+                    "valor_individual": 10.5
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 23971,
+                    "valor_individual": 3.5
+                },
+                {
+                    "faixa_nome": "Time do Coração",
+                    "ganhadores": 9421,
+                    "valor_individual": 8.5
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 2436,
                 "data": "01/09/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -5195,6 +5283,54 @@
         }
     ],
     "diadesorte": [
+        {
+            "identificacao": {
+                "concurso": 1289,
+                "data": "03/09/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "01",
+                    "03",
+                    "06",
+                    "08",
+                    "20",
+                    "26",
+                    "30"
+                ],
+                "campos_especiais": [
+                    "Fevereiro"
+                ]
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 15,
+                    "valor_individual": 4167.32
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 884,
+                    "valor_individual": 25.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 10700,
+                    "valor_individual": 5.0
+                },
+                {
+                    "faixa_nome": "Mês da Sorte",
+                    "ganhadores": 33912,
+                    "valor_individual": 2.5
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 1288,
@@ -10211,6 +10347,45 @@
     "quina": [
         {
             "identificacao": {
+                "concurso": 7109,
+                "data": "03/09/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "27",
+                    "30",
+                    "61",
+                    "66",
+                    "70"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 25,
+                    "valor_individual": 20407.94
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 2942,
+                    "valor_individual": 165.16
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 79955,
+                    "valor_individual": 6.07
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 7108,
                 "data": "02/09/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -12785,6 +12960,60 @@
         }
     ],
     "lotofacil": [
+        {
+            "identificacao": {
+                "concurso": 3779,
+                "data": "03/09/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "03",
+                    "04",
+                    "05",
+                    "07",
+                    "08",
+                    "10",
+                    "11",
+                    "13",
+                    "14",
+                    "16",
+                    "17",
+                    "19",
+                    "23",
+                    "24",
+                    "25"
+                ],
+                "campos_especiais": []
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 7,
+                    "valor_individual": 532221.72
+                },
+                {
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 704,
+                    "valor_individual": 889.16
+                },
+                {
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 17324,
+                    "valor_individual": 35.0
+                },
+                {
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 179888,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 847986,
+                    "valor_individual": 7.0
+                }
+            ]
+        },
         {
             "identificacao": {
                 "concurso": 3778,
