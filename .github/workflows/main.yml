@@ -2,7 +2,7 @@ name: Atualização Diária de Loterias
 
 on:
   schedule:
-    - cron: '30 02 * * *'
+    - cron: '0 3,11,19 * * *'
   workflow_dispatch: # Isso cria o botão de rodar manual
 
 permissions:
