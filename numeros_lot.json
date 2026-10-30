@@ -1364,41 +1364,6 @@
                     "valor_individual": 1028.31
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3038,
-                "data": "30/07/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "30",
-                    "35",
-                    "38",
-                    "39",
-                    "46",
-                    "50"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 41,
-                    "valor_individual": 64733.96
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 2549,
-                    "valor_individual": 1716.31
-                }
-            ]
         }
     ],
     "maismilionaria": [
@@ -5242,59 +5207,6 @@
                     "valor_individual": 8.5
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2422,
-                "data": "30/07/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "11",
-                    "19",
-                    "21",
-                    "24",
-                    "34",
-                    "68",
-                    "78"
-                ],
-                "campos_especiais": [
-                    "TOMBENSE /MG"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 4,
-                    "valor_individual": 26817.12
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 85,
-                    "valor_individual": 1802.83
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 1760,
-                    "valor_individual": 10.5
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 17620,
-                    "valor_individual": 3.5
-                },
-                {
-                    "faixa_nome": "Time do Coração",
-                    "ganhadores": 3433,
-                    "valor_individual": 8.5
-                }
-            ]
         }
     ],
     "diadesorte": [
@@ -8894,54 +8806,6 @@
                 {
                     "faixa_nome": "Mês da Sorte",
                     "ganhadores": 38402,
-                    "valor_individual": 2.5
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 1259,
-                "data": "30/07/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "03",
-                    "07",
-                    "15",
-                    "18",
-                    "27",
-                    "28"
-                ],
-                "campos_especiais": [
-                    "Abril"
-                ]
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "7 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 23,
-                    "valor_individual": 3011.05
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 1085,
-                    "valor_individual": 25.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 13598,
-                    "valor_individual": 5.0
-                },
-                {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 42757,
                     "valor_individual": 2.5
                 }
             ]
@@ -13576,45 +13440,6 @@
                     "valor_individual": 3.79
                 }
             ]
-        },
-        {
-            "identificacao": {
-                "concurso": 7079,
-                "data": "30/07/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "03",
-                    "29",
-                    "46",
-                    "50",
-                    "55"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 23,
-                    "valor_individual": 10490.57
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 1852,
-                    "valor_individual": 124.07
-                },
-                {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 48427,
-                    "valor_individual": 4.74
-                }
-            ]
         }
     ],
     "lotofacil": [
@@ -17232,60 +17057,6 @@
                 {
                     "faixa_nome": "11 acertos",
                     "ganhadores": 1114183,
-                    "valor_individual": 7.0
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 3749,
-                "data": "30/07/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "01",
-                    "02",
-                    "03",
-                    "07",
-                    "08",
-                    "09",
-                    "11",
-                    "12",
-                    "14",
-                    "17",
-                    "19",
-                    "21",
-                    "23",
-                    "24",
-                    "25"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 1,
-                    "valor_individual": 1290821.15
-                },
-                {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 334,
-                    "valor_individual": 1157.63
-                },
-                {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 10011,
-                    "valor_individual": 35.0
-                },
-                {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 107424,
-                    "valor_individual": 14.0
-                },
-                {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 514915,
                     "valor_individual": 7.0
                 }
             ]
