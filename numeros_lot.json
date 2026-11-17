@@ -5408,6 +5408,54 @@
     "diadesorte": [
         {
             "identificacao": {
+                "concurso": 1349,
+                "data": "16/11/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+            },
+            "resultados": {
+                "dezenas": [
+                    "05",
+                    "07",
+                    "08",
+                    "13",
+                    "17",
+                    "22",
+                    "24"
+                ],
+                "campos_especiais": [
+                    "Outubro"
+                ]
+            },
+            "financeiro": [
+                {
+                    "faixa_nome": "7 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "6 acertos",
+                    "ganhadores": 60,
+                    "valor_individual": 2167.96
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 1889,
+                    "valor_individual": 25.0
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 21198,
+                    "valor_individual": 5.0
+                },
+                {
+                    "faixa_nome": "Mês da Sorte",
+                    "ganhadores": 64797,
+                    "valor_individual": 2.5
+                }
+            ]
+        },
+        {
+            "identificacao": {
                 "concurso": 1348,
                 "data": "15/11/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
@@ -8957,26 +9005,26 @@
                     "valor_individual": 2.5
                 }
             ]
-        },
+        }
+    ],
+    "supersete": [
         {
             "identificacao": {
-                "concurso": 1274,
-                "data": "17/08/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
+                "concurso": 923,
+                "data": "16/11/2026",
+                "local": "Espaço da Sorte em SAO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "08",
-                    "09",
-                    "15",
-                    "16",
-                    "22",
-                    "23",
-                    "24"
+                    "12",
+                    "24",
+                    "30",
+                    "46",
+                    "59",
+                    "64",
+                    "71"
                 ],
-                "campos_especiais": [
-                    "Fevereiro"
-                ]
+                "campos_especiais": []
             },
             "financeiro": [
                 {
@@ -8986,28 +9034,26 @@
                 },
                 {
                     "faixa_nome": "6 acertos",
-                    "ganhadores": 23,
-                    "valor_individual": 3204.25
+                    "ganhadores": 2,
+                    "valor_individual": 8832.41
                 },
                 {
                     "faixa_nome": "5 acertos",
-                    "ganhadores": 860,
-                    "valor_individual": 25.0
+                    "ganhadores": 42,
+                    "valor_individual": 600.84
                 },
                 {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 10624,
-                    "valor_individual": 5.0
+                    "ganhadores": 476,
+                    "valor_individual": 53.01
                 },
                 {
-                    "faixa_nome": "Mês da Sorte",
-                    "ganhadores": 39816,
-                    "valor_individual": 2.5
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 3718,
+                    "valor_individual": 6.0
                 }
             ]
-        }
-    ],
-    "supersete": [
+        },
         {
             "identificacao": {
                 "concurso": 922,
@@ -10617,55 +10663,48 @@
                     "valor_individual": 6.0
                 }
             ]
-        },
+        }
+    ],
+    "quina": [
         {
             "identificacao": {
-                "concurso": 887,
-                "data": "17/08/2026",
-                "local": "Espaço da Sorte em SAO PAULO, SP"
+                "concurso": 7169,
+                "data": "16/11/2026",
+                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "11",
-                    "27",
                     "35",
-                    "49",
-                    "58",
-                    "69",
-                    "79"
+                    "41",
+                    "44",
+                    "59",
+                    "80"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "7 acertos",
+                    "faixa_nome": "5 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 24618.43
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 61,
-                    "valor_individual": 1153.08
-                },
-                {
                     "faixa_nome": "4 acertos",
-                    "ganhadores": 1107,
-                    "valor_individual": 63.53
+                    "ganhadores": 53,
+                    "valor_individual": 9521.59
                 },
                 {
                     "faixa_nome": "3 acertos",
-                    "ganhadores": 9837,
-                    "valor_individual": 6.0
+                    "ganhadores": 3520,
+                    "valor_individual": 136.53
+                },
+                {
+                    "faixa_nome": "2 acertos",
+                    "ganhadores": 93350,
+                    "valor_individual": 5.14
                 }
             ]
-        }
-    ],
-    "quina": [
+        },
         {
             "identificacao": {
                 "concurso": 7168,
@@ -13551,48 +13590,63 @@
                     "valor_individual": 4.05
                 }
             ]
-        },
+        }
+    ],
+    "lotofacil": [
         {
             "identificacao": {
-                "concurso": 7094,
-                "data": "17/08/2026",
+                "concurso": 3831,
+                "data": "16/11/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
+                    "02",
+                    "04",
+                    "05",
+                    "06",
+                    "09",
+                    "10",
+                    "11",
+                    "13",
+                    "15",
+                    "16",
                     "17",
+                    "21",
+                    "23",
                     "24",
-                    "26",
-                    "42",
-                    "80"
+                    "25"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 2,
+                    "valor_individual": 696133.39
                 },
                 {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 40,
-                    "valor_individual": 10812.92
+                    "faixa_nome": "14 acertos",
+                    "ganhadores": 312,
+                    "valor_individual": 1336.66
                 },
                 {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 4130,
-                    "valor_individual": 99.73
+                    "faixa_nome": "13 acertos",
+                    "ganhadores": 9541,
+                    "valor_individual": 35.0
                 },
                 {
-                    "faixa_nome": "2 acertos",
-                    "ganhadores": 100381,
-                    "valor_individual": 4.1
+                    "faixa_nome": "12 acertos",
+                    "ganhadores": 101476,
+                    "valor_individual": 14.0
+                },
+                {
+                    "faixa_nome": "11 acertos",
+                    "ganhadores": 519127,
+                    "valor_individual": 7.0
                 }
             ]
-        }
-    ],
-    "lotofacil": [
+        },
         {
             "identificacao": {
                 "concurso": 3830,
@@ -17156,63 +17210,78 @@
                     "valor_individual": 7.0
                 }
             ]
-        },
+        }
+    ],
+    "lotomania": [
         {
             "identificacao": {
-                "concurso": 3764,
-                "data": "17/08/2026",
+                "concurso": 3000,
+                "data": "16/11/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "02",
-                    "03",
-                    "04",
+                    "00",
                     "05",
-                    "06",
                     "07",
-                    "08",
-                    "09",
-                    "12",
-                    "13",
-                    "15",
-                    "18",
+                    "11",
+                    "19",
                     "21",
-                    "22",
-                    "25"
+                    "24",
+                    "36",
+                    "37",
+                    "38",
+                    "46",
+                    "48",
+                    "59",
+                    "69",
+                    "74",
+                    "75",
+                    "81",
+                    "92",
+                    "95",
+                    "99"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "15 acertos",
+                    "faixa_nome": "20 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "14 acertos",
-                    "ganhadores": 150,
-                    "valor_individual": 2160.55
+                    "faixa_nome": "19 acertos",
+                    "ganhadores": 5,
+                    "valor_individual": 32997.24
                 },
                 {
-                    "faixa_nome": "13 acertos",
-                    "ganhadores": 6596,
-                    "valor_individual": 35.0
+                    "faixa_nome": "18 acertos",
+                    "ganhadores": 32,
+                    "valor_individual": 3222.39
                 },
                 {
-                    "faixa_nome": "12 acertos",
-                    "ganhadores": 89026,
-                    "valor_individual": 14.0
+                    "faixa_nome": "17 acertos",
+                    "ganhadores": 324,
+                    "valor_individual": 318.26
                 },
                 {
-                    "faixa_nome": "11 acertos",
-                    "ganhadores": 520070,
-                    "valor_individual": 7.0
+                    "faixa_nome": "16 acertos",
+                    "ganhadores": 2177,
+                    "valor_individual": 47.36
+                },
+                {
+                    "faixa_nome": "15 acertos",
+                    "ganhadores": 8993,
+                    "valor_individual": 11.46
+                },
+                {
+                    "faixa_nome": "0 acertos",
+                    "ganhadores": 0,
+                    "valor_individual": 0.0
                 }
             ]
-        }
-    ],
-    "lotomania": [
+        },
         {
             "identificacao": {
                 "concurso": 2999,
@@ -19627,78 +19696,75 @@
                     "valor_individual": 0.0
                 }
             ]
-        },
+        }
+    ],
+    "duplasena": [
         {
             "identificacao": {
-                "concurso": 2964,
-                "data": "17/08/2026",
+                "concurso": 3033,
+                "data": "16/11/2026",
                 "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
             },
             "resultados": {
                 "dezenas": [
-                    "07",
-                    "13",
-                    "14",
-                    "16",
-                    "25",
-                    "29",
-                    "33",
-                    "40",
-                    "41",
+                    "21",
+                    "23",
+                    "28",
+                    "31",
                     "44",
-                    "56",
-                    "60",
-                    "61",
-                    "64",
-                    "67",
-                    "68",
-                    "73",
-                    "77",
-                    "83",
-                    "85"
+                    "46",
+                    "13",
+                    "16",
+                    "27",
+                    "30",
+                    "36",
+                    "39"
                 ],
                 "campos_especiais": []
             },
             "financeiro": [
                 {
-                    "faixa_nome": "20 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
                 },
                 {
-                    "faixa_nome": "19 acertos",
-                    "ganhadores": 16,
-                    "valor_individual": 25320.31
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 12,
+                    "valor_individual": 11483.69
                 },
                 {
-                    "faixa_nome": "18 acertos",
-                    "ganhadores": 164,
-                    "valor_individual": 2205.6
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 1099,
+                    "valor_individual": 143.3
                 },
                 {
-                    "faixa_nome": "17 acertos",
-                    "ganhadores": 1222,
-                    "valor_individual": 207.2
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 23276,
+                    "valor_individual": 3.38
                 },
                 {
-                    "faixa_nome": "16 acertos",
-                    "ganhadores": 7179,
-                    "valor_individual": 35.26
-                },
-                {
-                    "faixa_nome": "15 acertos",
-                    "ganhadores": 26885,
-                    "valor_individual": 9.41
-                },
-                {
-                    "faixa_nome": "0 acertos",
+                    "faixa_nome": "6 acertos",
                     "ganhadores": 0,
                     "valor_individual": 0.0
+                },
+                {
+                    "faixa_nome": "5 acertos",
+                    "ganhadores": 27,
+                    "valor_individual": 4593.47
+                },
+                {
+                    "faixa_nome": "4 acertos",
+                    "ganhadores": 1317,
+                    "valor_individual": 119.58
+                },
+                {
+                    "faixa_nome": "3 acertos",
+                    "ganhadores": 25198,
+                    "valor_individual": 3.12
                 }
             ]
-        }
-    ],
-    "duplasena": [
+        },
         {
             "identificacao": {
                 "concurso": 3032,
@@ -22006,72 +22072,6 @@
                     "faixa_nome": "3 acertos",
                     "ganhadores": 6623,
                     "valor_individual": 3.45
-                }
-            ]
-        },
-        {
-            "identificacao": {
-                "concurso": 2997,
-                "data": "17/08/2026",
-                "local": "ESPAÇO DA SORTE em SÃO PAULO, SP"
-            },
-            "resultados": {
-                "dezenas": [
-                    "20",
-                    "23",
-                    "25",
-                    "28",
-                    "41",
-                    "50",
-                    "04",
-                    "08",
-                    "19",
-                    "31",
-                    "41",
-                    "46"
-                ],
-                "campos_especiais": []
-            },
-            "financeiro": [
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 2,
-                    "valor_individual": 21708.21
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 348,
-                    "valor_individual": 142.58
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 6999,
-                    "valor_individual": 3.54
-                },
-                {
-                    "faixa_nome": "6 acertos",
-                    "ganhadores": 0,
-                    "valor_individual": 0.0
-                },
-                {
-                    "faixa_nome": "5 acertos",
-                    "ganhadores": 5,
-                    "valor_individual": 7814.96
-                },
-                {
-                    "faixa_nome": "4 acertos",
-                    "ganhadores": 362,
-                    "valor_individual": 137.06
-                },
-                {
-                    "faixa_nome": "3 acertos",
-                    "ganhadores": 7454,
-                    "valor_individual": 3.32
                 }
             ]
         }
